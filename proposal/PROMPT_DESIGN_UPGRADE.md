@@ -86,7 +86,7 @@ Elevate to: **"Private client portal / executive proposal"** — think Stripe At
 - Design distinct **section headers** — section number, title, one-line summary
 - Pricing section: make Option 2 (retainer) visually dominant without being tacky — subtle "Recommended" treatment
 - Recommendation section should feel like a **decision slide**, not another paragraph block
-- Add **pull quotes / stat callouts** for key numbers ($65K, $8K/mo, 8–10 weeks, 5 users)
+- Add **pull quotes / stat callouts** for key numbers ($60K–$80K, $8K/mo, 8–12 week MVP, 12–16 week V1, 5 users)
 
 #### 3. Estimate Page (`estimate.html`)
 - Lead with a **summary dashboard**: total hours, total cost range, phase count, recommended model
@@ -152,7 +152,7 @@ When done, the site should:
 3. Export to PDF cleanly with no broken layouts
 4. Feel unmistakably **Layer Zero Studio** without copying their homepage
 5. Make the **retainer recommendation** visually obvious but professionally restrained
-6. Pass the test: *"Would I sign a $72K–$96K engagement based on how this looks?"*
+6. Pass the test: *"Would I sign a $24K initial retainer (3 months) based on how this looks?"*
 
 ### What NOT To Do
 

@@ -35,9 +35,11 @@ Open in any browser — ready for client presentation or Print → Save as PDF.
 |---|---|
 | **Client** | Amit — Real Estate Investment & Property Management |
 | **Prepared By** | Layer Zero Studio |
-| **Recommended Model** | Strategic Development Retainer — $8,000/month |
-| **Alternative Model** | Fixed Price — $65,000 |
-| **First Deliverable** | Operations Hub in 8–10 weeks |
+| **Recommended Model** | Monthly Retainer — $8,000/month (iterative; not a contracted full V1 delivery) |
+| **Alternative Model** | Fixed Price — $60,000–$80,000 (locked scope, contractual V1 delivery) |
+| **Initial Retainer Commitment** | 3 months ($24,000) — foundation + MVP path; full V1 requires continued engagement |
+| **Production-Ready V1** | Approximately 12–16 weeks after kickoff |
+| **MVP Delivery** | Approximately 8–12 weeks |
 
 ---
 

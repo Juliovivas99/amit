@@ -1,7 +1,7 @@
 # Presentation Outline
 ## Unified Real Estate Operations Platform — Amit
 
-**Prepared by:** Meridian Systems Consulting  
+**Prepared by:** Layer Zero Studio  
 **Date:** June 22, 2026  
 **Format:** Executive Presentation (30–45 minutes)  
 **Audience:** Amit leadership / decision-makers
@@ -14,8 +14,8 @@
 |---|---|
 | **Duration** | 30–45 minutes + 15 minutes Q&A |
 | **Slides** | ~22–25 slides |
-| **Tone** | Consultative, professional, data-driven |
-| **Goal** | Secure engagement approval and model selection |
+| **Tone** | Consultative, professional, practical |
+| **Goal** | Secure engagement approval and retainer selection |
 
 ---
 
@@ -29,10 +29,10 @@
 
 *Proposal for Amit*
 
-Meridian Systems Consulting  
+Layer Zero Studio  
 June 2026
 
-> **Speaker Notes:** Thank the client for their time. Frame this as a conversation about solving operational challenges, not selling software.
+> **Speaker Notes:** Thank the client for their time. Frame this as a conversation about building a practical internal operating system — not selling enterprise software.
 
 ---
 
@@ -40,7 +40,7 @@ June 2026
 
 1. Understanding your challenges
 2. Our proposed solution
-3. Platform architecture
+3. Platform scope (three dashboards)
 4. Delivery roadmap
 5. Investment options
 6. Our recommendation
@@ -55,14 +55,14 @@ June 2026
 **Your stated goals:**
 
 - Centralize operations across disconnected systems
-- Reduce information silos
-- Improve communication workflows
+- Reduce information silos and tool-switching
+- Improve communication and follow-up visibility
 - Prevent tasks and follow-ups from slipping
 - Improve operational accountability
-- Accelerate deal evaluation
-- Create a single source of truth
+- Accelerate deal evaluation (2–3 deals/month)
+- Create a practical internal operating layer — not a full system replacement
 
-> **Speaker Notes:** Demonstrate that we listened. Reference specific discovery conversations. This builds trust before presenting the solution.
+> **Speaker Notes:** Demonstrate that we listened. Reference specific discovery conversations. Emphasize right-sized scope for a team of ~5.
 
 ---
 
@@ -72,12 +72,12 @@ June 2026
 
 | System | Role |
 |---|---|
-| Teams / Outlook | Communication |
+| Microsoft Teams / Outlook | Communication |
 | Yardi | Property management |
 | Entrata | Leasing & residents |
 | CoStar | Market research |
-| Excel / Word / PPT | Analysis & documents |
-| Claude | Ad-hoc AI assistance |
+| Excel / Word / PowerPoint | Analysis & documents |
+| Claude / AI tools | Ad-hoc AI assistance |
 
 **Key insight:** Each system works. None of them work *together*.
 
@@ -94,7 +94,7 @@ June 2026
 | **Lost follow-ups** | Broker calls, collections actions, and internal tasks fall through cracks |
 | **Invisible communication** | No team-wide view of what was promised or discussed |
 | **Manual review cycles** | Weekly/daily reviews spent assembling data, not making decisions |
-| **Reactive AI** | Claude answers questions but doesn't ensure work gets done |
+| **Reactive AI** | AI answers questions but isn't connected to deals, properties, or accountability |
 
 > **Speaker Notes:** Quantify where possible — "How much time does your team spend in weekly reviews just gathering data?" Let them nod.
 
@@ -106,13 +106,13 @@ June 2026
 
 | Today | With Unified Platform |
 |---|---|
-| Switch between 7+ systems daily | One operational hub |
+| Switch between multiple systems daily | One internal operating hub |
 | Follow-ups in email/memory | Persistent follow-up queue with escalation |
-| Manual data assembly for reviews | Auto-generated executive summaries |
-| AI answers questions | AI creates tasks and ensures completion |
-| 2–3 deals/month tracked in spreadsheets | Deal pipeline with full history |
+| Manual data assembly for reviews | Structured dashboards and executive summaries |
+| AI answers questions in isolation | AI search and summaries across approved platform data |
+| 2–3 deals/month tracked in spreadsheets | Deal pipeline with broker tracking and documents |
 
-> **Speaker Notes:** Paint the future state concretely. This is the "why" behind the investment.
+> **Speaker Notes:** Paint the future state concretely. Emphasize lean start, expand over time.
 
 ---
 
@@ -120,26 +120,25 @@ June 2026
 
 **Unified Real Estate Operations Platform**
 
-Three integrated modules, one application:
+A custom internal operating system — three dashboards, one application:
 
-1. **Acquisitions Dashboard** — Deal pipeline, broker tracking, investment memos
-2. **Property Management Dashboard** — Portfolio performance, collections, cash flow
-3. **Internal Operations Dashboard** — Tasks, follow-ups, communications, accountability
+1. **Acquisition Dashboard** — Deal pipeline, broker tracking, notes, documents, basic analysis
+2. **Property Management Dashboard** — Portfolio visibility, occupancy, collections, cash flow, Yardi/Entrata data
+3. **Internal Management Dashboard** — Tasks, follow-ups, communications, accountability, AI search
 
-> **Speaker Notes:** Emphasize this is a custom platform built for their workflow, not an off-the-shelf product they have to adapt to.
+> **Speaker Notes:** This is not an enterprise replacement project. It's a purpose-built internal OS that starts lean and grows with use.
 
 ---
 
-### SLIDE 8: Module 1 — Acquisitions Dashboard
+### SLIDE 8: Module 1 — Acquisition Dashboard
 
 **Built for 2–3 deals/month:**
 
-- Deal pipeline management (sourcing → closing)
-- Broker communication log
-- CoStar integration for market research
-- Investment memo templates
-- AI-generated deal summaries
-- Automated follow-ups and task generation
+- Deal pipeline management
+- Broker communication tracking
+- Deal notes and document organization
+- Basic deal analysis fields
+- AI-assisted summaries and future underwriting workflows
 
 > **Speaker Notes:** Connect each feature to a discovery finding. "You mentioned broker follow-ups are critical — this is where that lives."
 
@@ -149,39 +148,37 @@ Three integrated modules, one application:
 
 **Portfolio-level visibility:**
 
-- Portfolio overview with KPIs
-- Occupancy metrics (Entrata/Yardi)
-- Collections tracking with follow-up status
+- Property records and portfolio overview
+- Occupancy and collections tracking
 - Cash flow visibility by property
-- Yardi & Entrata integration
-- Reporting and analytics
+- Yardi & Entrata data visibility where technically feasible
+- Property-level tasks and notes
 
-> **Speaker Notes:** Address the repetitive workflows they described — cash flow reviews and collections tracking become dashboard views, not manual exercises.
+> **Speaker Notes:** Address repetitive workflows — cash flow reviews and collections tracking become structured views, not manual exercises every cycle.
 
 ---
 
-### SLIDE 10: Module 3 — Internal Operations Dashboard
+### SLIDE 10: Module 3 — Internal Management Dashboard
 
 **The operational nerve center:**
 
-- Unified communications (Teams/email linked to deals & properties)
-- Team-wide task management
-- Follow-up tracking with escalation
-- AI-generated action items from meetings and emails
+- Internal tasks and follow-up tracking
+- Communications visibility tied to deals and properties
+- Team accountability and internal notes
 - Executive summaries (daily/weekly)
-- Knowledge search across all company data
+- AI search across approved platform data
 
-> **Speaker Notes:** This is Phase 1 — what they get first. Emphasize speed to value.
+> **Speaker Notes:** This is where daily operational value lives for the whole team of five.
 
 ---
 
 ### SLIDE 11: Design Principles
 
 1. **Integrate, don't replace** — Yardi, Entrata, CoStar stay; we build the layer on top
-2. **Tasks and follow-ups are first-class** — Not an afterthought
-3. **AI drives completion** — Creates work, not just answers
-4. **Start simple, expand deliberately** — Value in 60–90 days
-5. **Built for five, designed to scale**
+2. **Start lean, grow deliberately** — Value in the first phases, depth over time
+3. **Structure before automation** — Clean data enables useful AI later
+4. **Right-sized for five users** — Not an overbuilt enterprise system
+5. **You own the code** — Full ownership upon payment
 
 > **Speaker Notes:** These principles should feel like they came from the discovery conversation, not a template.
 
@@ -193,12 +190,12 @@ Three integrated modules, one application:
 
 | Layer | Function |
 |---|---|
-| Web Application | Unified UI for all modules |
+| Web Application | Unified UI for all three dashboards |
 | Application Services | Business logic, workflows, notifications |
 | Integration Layer | Yardi, Entrata, CoStar, Microsoft 365, AI |
-| Data Layer | Single source of truth with full audit history |
+| Data Layer | Structured records with audit history |
 
-> **Speaker Notes:** Keep this high-level for executives. Offer to go deeper on technical questions in Q&A or a follow-up session.
+> **Speaker Notes:** Keep this high-level for executives. Offer to go deeper on technical questions in Q&A.
 
 ---
 
@@ -206,56 +203,40 @@ Three integrated modules, one application:
 
 | System | Approach | Phase |
 |---|---|---|
-| Microsoft 365 | Graph API | Phase 1 |
-| CoStar | API or export automation | Phase 2 |
-| Yardi | API or scheduled sync | Phase 3 |
-| Entrata | Open API | Phase 3 |
-| AI (Claude) | API integration | Phase 1 → 4 |
+| Microsoft 365 | Graph API | Phase 6 |
+| Yardi | API or export-based sync | Phase 4 |
+| Entrata | Open API or export | Phase 4 |
+| CoStar | Export workflow if API limited | Phase 3+ |
+| AI (Claude) | API integration | Phase 7 |
 
-**Key message:** We integrate with your existing systems. We don't ask you to migrate away from them.
+**Key message:** We integrate with your existing systems. We don't ask you to migrate away from them. Integration depth depends on API access and licensing.
 
-> **Speaker Notes:** Acknowledge integration risk openly. "CoStar integration depends on their API access — we'll validate this in Week 1."
+> **Speaker Notes:** Acknowledge integration risk openly. "Yardi and CoStar integration depends on API access — we'll validate this in Phase 1."
 
 ---
 
 ### SLIDE 14: Delivery Roadmap
 
-**Visual:** Timeline graphic
+**Visual:** Timeline graphic — 8 phases over 12–16 weeks (with overlap)
 
-| Phase | Timeline | Deliverable |
+| Phase | Duration (est.) | Deliverable |
 |---|---|---|
-| **Phase 1:** Operations Hub | Months 1–3 | Tasks, follow-ups, communications, basic AI |
-| **Phase 2:** Acquisitions | Months 3–6 | Deal pipeline, broker tracking, CoStar |
-| **Phase 3:** Property Management | Months 6–9 | Portfolio views, Yardi/Entrata, collections |
-| **Phase 4:** Advanced AI | Months 9–12 | Proactive workflows, executive intelligence |
+| **Phase 1:** Discovery & Architecture | 1–2 weeks | Workflow mapping, technical architecture |
+| **Phase 2:** Core Foundation | 2–3 weeks | Auth, database, dashboard shell |
+| **Phases 3–5:** Dashboards | 2–4 weeks each | Acquisition, Property Mgmt, Internal Mgmt |
+| **Phase 6:** Communications | 2–4 weeks | Email/calendar integration |
+| **Phase 7:** AI | 2–4 weeks | Search, summaries, workflow assistance |
+| **Phase 8:** Launch | 1–2 weeks | Testing, training, iteration |
 
-> **Speaker Notes:** "You'll have a working system your team uses daily within 8–10 weeks. Not a prototype — a production application."
-
----
-
-### SLIDE 15: Phase 1 Deep Dive — Operations Hub
-
-**What you get in the first 60–90 days:**
-
-- Task management across the team
-- Follow-up engine with reminders and escalation
-- Unified view of email and Teams communications
-- AI action item extraction
-- Daily operational summaries
-- Knowledge search
-- Microsoft 365 integration
-
-**Milestone:** Production launch by Week 10–12
-
-> **Speaker Notes:** This is the "prove it" phase. If Phase 1 doesn't deliver value, nothing else matters.
+> **Speaker Notes:** Some phases may overlap depending on priority and MVP scope. MVP in approximately 8–12 weeks; production-ready V1 in 12–16 weeks. Additional work may continue month-to-month after V1.
 
 ---
 
-### SLIDE 16: Scope Summary
+### SLIDE 15: Scope Summary
 
 **In scope:**
-- Custom platform development (all 3 modules + AI)
-- Integrations with existing systems
+- Custom platform development (3 dashboards + phased AI)
+- Integrations with existing systems where feasible
 - Design, testing, deployment, training
 
 **Out of scope:**
@@ -263,116 +244,139 @@ Three integrated modules, one application:
 - Cloud hosting (~$200–500/month)
 - AI API usage (~$50–200/month)
 - Mobile native apps
-- Bulk historical data migration
+- Full replacement of existing systems
 
 > **Speaker Notes:** Transparency builds trust. No surprises later.
 
 ---
 
-### SLIDE 17: Assumptions & Risks
+### SLIDE 16: Assumptions & Risks
 
 **Key assumptions:**
-- API access available for Yardi, Entrata, CoStar, Microsoft 365
-- Client provides timely feedback (5 business days)
-- 5 users with defined roles
+- API access available for Yardi, Entrata, CoStar, Microsoft 365 (or export fallbacks)
+- Client provides timely feedback
+- ~5 users; 2–3 deals/month
 
 **Top risks:**
 
 | Risk | Mitigation |
 |---|---|
-| API limitations | Early integration spikes; export fallbacks |
-| Scope evolution | Phased delivery with monthly reprioritization |
-| CoStar restrictions | Validate access in Week 1 |
+| API limitations | Early integration assessment; export fallbacks |
+| Scope evolution | Phased delivery; retainer reprioritization |
+| CoStar restrictions | Validate access in Phase 1 |
 
 > **Speaker Notes:** Show we've thought about what could go wrong. Consulting firms that only present upside lose credibility.
 
 ---
 
-### SLIDE 18: Investment Options
+### SLIDE 17: Investment Options
 
-**Two models. Same vision. Different risk profiles.**
+**Two models. Same long-term vision. Different engagement structures.**
 
-| | Fixed Price | Retainer |
+| | Fixed Price | Retainer (Recommended) |
 |---|---|---|
-| **Cost** | $65,000 | $8,000/month |
-| **Timeline** | 6–9 months | 9–12 months |
-| **Flexibility** | Low | High |
-| **Support** | Not included | Included |
-| **Best for** | Stable requirements | Evolving requirements |
+| **Investment** | $60,000–$80,000 (full contracted V1) | $8,000/month (development capacity) |
+| **Delivery commitment** | Contractual — locked SOW | Iterative — monthly prioritized releases |
+| **Timeline to V1** | ~12–16 weeks (contractual) | Target ~12–16 weeks with continued engagement |
+| **Initial Commitment** | Milestone-based | 3 months ($24,000) — foundation + MVP path |
+| **Capacity** | Scoped to SOW | ~20 hrs/week (80 hrs/mo) |
+| **Flexibility** | Low — formal scope management | High — continuous discovery, evolving priorities |
+| **Risk** | Absorbed by developer | Shared — client directs priorities |
+| **Support** | Limited post-acceptance | Included in retainer capacity |
+| **Best for** | Locked scope before build | Evolving requirements |
 
-> **Speaker Notes:** Present both options neutrally here. The recommendation comes next.
-
----
-
-### SLIDE 19: Option 1 — Fixed Price
-
-**$65,000 | 6–9 months**
-
-- Full platform per defined scope
-- 30/30/40 payment milestones
-- Change orders for scope changes
-- No ongoing support after delivery
-
-**Best when:** Requirements are stable and budget certainty is the top priority.
-
-> **Speaker Notes:** Don't dismiss this option. It may be right for some clients. Explain honestly when it works and when it doesn't.
+> **Speaker Notes:** These are not two prices for the same deliverable. Fixed price is a contractual V1 build. The retainer is an iterative partnership — $24K buys ~240 hours of capacity, not a guaranteed full V1.
 
 ---
 
-### SLIDE 20: Option 2 — Strategic Retainer
+### SLIDE 18: Option 1 — Fixed Price
 
-**$8,000/month | 80 hours | 9–12 months**
+**$60,000–$80,000 | ~12–16 weeks to production-ready V1 (contractual)**
 
-- Monthly development, integrations, and support
-- Roadmap reprioritization each month
-- AI workflow iteration and tuning
-- Bug fixes and enhancements included
-- Minimum 3-month commitment
+- Locked requirements and defined deliverables per statement of work
+- Milestone-based payments with written acceptance
+- Formal scope management — change orders for material additions
+- Greater project risk absorbed by developer
+- Contractual delivery commitment for full agreed V1 scope
 
-**Best when:** Requirements will evolve as the team adopts the platform.
+**Best when:** Requirements are stable and fully defined before development begins.
 
-> **Speaker Notes:** Frame as a partnership, not a subscription. "We become your development team for the duration."
+Additional work outside the agreed scope may require a separate written change order or proposal.
+
+> **Speaker Notes:** Don't dismiss this option, but be honest — based on discovery, requirements are still evolving. Fixed price is viable only if scope is locked in Phase 1.
 
 ---
 
-### SLIDE 21: Our Recommendation
+### SLIDE 19: Option 2 — Monthly Retainer *(Recommended)*
 
-**We recommend the Strategic Development Retainer.**
+**$8,000/month | up to 80 hours | 3-month initial commitment ($24,000)**
+
+- Iterative releases — highest-value workflows first
+- Continuous discovery alongside development
+- Flexible monthly prioritization as needs clarify
+- Scope evolves as the team learns what they need
+- After initial 3 months: continues month-to-month at $8,000/month unless canceled
+
+**Not included:** A guaranteed full production-ready V1 within the initial three-month term. The $24,000 commitment funds ~240 hours — typically discovery, foundation, and an MVP path.
+
+> **Speaker Notes:** Frame as a partnership, not a subscription discount. "You get dedicated lead-engineer capacity — iterative delivery that can reach V1 over 12–16 weeks if the engagement continues, not a $24K shortcut to the same contracted build as fixed price."
+
+---
+
+### SLIDE 20: Our Recommendation
+
+**We recommend the Monthly Retainer at $8,000/month.**
 
 **Why:**
 
-1. Your requirements will evolve as your team uses the platform — they should
-2. Integration complexity (Yardi, Entrata, CoStar) favors incremental validation
+1. The platform can be built iteratively, starting with highest-value workflows first
+2. Integration complexity (Yardi, Entrata, CoStar) favors incremental validation as access becomes clear
 3. AI must be tuned to your workflows — this is iterative, not one-time
-4. A team of 5 benefits from a responsive partner, not a project handoff
-5. The cost difference ($7K–$31K) buys flexibility and ongoing improvement
+4. A team of 5 benefits from a responsive solo-engineer partner, not a rigid project handoff
+5. Fixed price only works if scope is locked before development — discovery suggests it isn't yet
 
-> **Speaker Notes:** Be direct. "We're recommending the retainer not because it costs more, but because it's a better fit for how this project will actually unfold."
+> **Speaker Notes:** Be direct. "We're recommending the retainer because it fits how this project will actually unfold — iterative delivery with room to learn, not a locked-scope project at a lower price point."
 
 ---
 
-### SLIDE 22: Total Investment Summary
+### SLIDE 21: Total Investment Summary
 
 | Item | Fixed Price | Retainer |
 |---|---|---|
-| Development | $65,000 | $72,000 – $96,000 |
-| Hosting (annual) | ~$3,000 – $6,000 | ~$3,000 – $6,000 |
-| AI API (annual) | ~$600 – $2,400 | ~$600 – $2,400 |
-| **Year 1 Total** | **~$69,000 – $73,000** | **~$76,000 – $105,000** |
+| **Contracted V1 development** | $60,000–$80,000 | Not applicable — capacity-based, not scope-guaranteed |
+| **Initial retainer commitment** | — | $24,000 (3 months; foundation + MVP path) |
+| **Hosting (annual)** | ~$3,000 – $6,000 | ~$3,000 – $6,000 |
+| **AI API (annual)** | ~$600 – $2,400 | ~$600 – $2,400 |
 
-**First deliverable (both models):** Operations Hub live in 8–10 weeks
+**Fixed price:** Delivers the full agreed V1 scope in approximately 12–16 weeks after kickoff.
 
-> **Speaker Notes:** Put the numbers in context. "For a team of 5 managing a real estate portfolio, this is the cost of eliminating the operational friction you've described."
+**Retainer:** Usable increments from early weeks; MVP typically in ~8–12 weeks; production-ready V1 targeted in ~12–16 weeks with continued engagement beyond the initial three months. Full eight-phase scope (700–970+ hours) typically requires 9–12+ months at retainer capacity.
+
+> **Speaker Notes:** Put the numbers in context. "Fixed price is buying a defined outcome. The retainer is buying monthly capacity to build iteratively — they're different products."
 
 ---
 
-### SLIDE 23: Why Meridian Systems
+### SLIDE 22: Agreement Highlights
 
-- Custom platform development for operational businesses
+- Payment: monthly in advance (retainer) or milestone-based (fixed)
+- Retainer: 3-month initial term ($24,000); month-to-month after unless canceled
+- Client owns custom code upon payment
+- AI outputs require human review
+- Third-party costs (hosting, APIs) are client responsibility
+- Timeline depends on access, feedback, third-party APIs, and vendor cooperation
+- 30-day termination notice after initial retainer term
+
+> **Speaker Notes:** Briefly cover the business terms. Full detail is in the written proposal.
+
+---
+
+### SLIDE 23: Why Layer Zero Studio
+
+- Custom internal platform development for operational businesses
 - Integration expertise across property management and productivity systems
 - AI workflow implementation — not just chatbots
-- Phased delivery methodology with proven time-to-value
-- Dedicated team, not rotating freelancers
+- Phased delivery with practical time-to-value (MVP in 8–12 weeks)
+- Primary delivery by lead engineer Julio Vivas; specialized help brought in only if needed
 
 > **Speaker Notes:** Brief and confident. Don't oversell credentials. Let the proposal quality speak.
 
@@ -383,12 +387,12 @@ Three integrated modules, one application:
 | Step | Timeline |
 |---|---|
 | 1. Review proposal & estimate | This week |
-| 2. Clarification call (30 min) | This week |
+| 2. Clarification call (30–45 min) | This week |
 | 3. Select engagement model | Within 2 weeks |
-| 4. Sign MSA & SOW | Within 2 weeks |
+| 4. Execute agreement & SOW | Within 2 weeks |
 | 5. Kickoff & discovery | Following week |
 
-**First deliverable:** Operations Hub in production within 8–10 weeks of kickoff.
+**First deliverable:** Phase 1 discovery within 1 week of kickoff; functional MVP within approximately 8–12 weeks; production-ready V1 within 12–16 weeks.
 
 > **Speaker Notes:** Make it easy to say yes. Clear steps, clear timeline, low friction.
 
@@ -398,8 +402,8 @@ Three integrated modules, one application:
 
 **Questions?**
 
-*Meridian Systems Consulting*  
-proposals@meridiansystems.io | (555) 014-2200
+*Layer Zero Studio*  
+[layerzero.studio](https://www.layerzero.studio)
 
 > **Speaker Notes:** Open the floor. Listen more than you talk. Their questions reveal priorities and concerns that inform the SOW.
 
@@ -407,8 +411,8 @@ proposals@meridiansystems.io | (555) 014-2200
 
 ## Appendix Slides (Optional — For Deep-Dive Sessions)
 
-### A1: Detailed Phase 1 Deliverables
-*Full deliverable table from proposal Section 5*
+### A1: Detailed Phase Deliverables
+*Full deliverable table from proposal Section 4*
 
 ### A2: Integration Technical Details
 *API endpoints, data flow diagrams, sync frequency*
@@ -417,13 +421,16 @@ proposals@meridiansystems.io | (555) 014-2200
 *RBAC, encryption, audit logging, credential management*
 
 ### A4: Team & Resources
-*Roles, allocation, communication cadence*
+*Primary development resource: Julio Vivas (lead engineer). Additional specialized resources only if needed and subject to client approval.*
 
 ### A5: Change Order Process
 *Fixed price scope change procedures*
 
 ### A6: Retainer Monthly Cadence
-*Bi-weekly updates, monthly executive review, roadmap planning*
+*Bi-weekly updates, monthly planning, roadmap reprioritization*
+
+### A7: Agreement Terms Summary
+*Payment, IP ownership, AI limitations, termination, milestone approval*
 
 ---
 
@@ -432,19 +439,19 @@ proposals@meridiansystems.io | (555) 014-2200
 ### Do
 
 - Lead with their problems, not your solution
-- Reference specific discovery findings by name
+- Reference specific discovery findings
 - Acknowledge risks and integration uncertainty openly
-- Present both pricing options fairly before recommending
+- Present fixed price honestly — it requires locked scope
+- Recommend the retainer clearly and explain why
 - Leave 15 minutes minimum for questions
-- Offer a follow-up technical deep-dive if needed
 
 ### Don't
 
 - Oversell AI capabilities — be honest about iteration needs
-- Promise specific CoStar integration without validating API access
-- Dismiss the fixed-price option — explain when each fits
+- Position this as a huge enterprise system
+- Promise specific CoStar/Yardi integration depth without validating API access
+- Present fixed price as equally preferred to retainer
 - Use jargon without context
-- Rush the recommendation slide — this is the decision point
 - End without clear next steps
 
 ---
@@ -453,8 +460,8 @@ proposals@meridiansystems.io | (555) 014-2200
 
 | Item | Status |
 |---|---|
-| Client Proposal (PDF) | From CLIENT_PROPOSAL.md |
-| Project Estimate (PDF) | From ESTIMATE.md |
+| Client Proposal (HTML/PDF) | From proposal.html / CLIENT_PROPOSAL.md |
+| Project Estimate (HTML/PDF) | From estimate.html / ESTIMATE.md |
 | Presentation deck (slides) | Build from this outline |
 | Architecture diagram (visual) | Create for Slides 7, 12 |
 | Timeline graphic (visual) | Create for Slide 14 |
@@ -462,4 +469,6 @@ proposals@meridiansystems.io | (555) 014-2200
 
 ---
 
-*© 2026 Meridian Systems Consulting. All rights reserved.*
+*This proposal is intended to define the initial direction, scope, and pricing structure for the project. Final implementation details may be adjusted based on discovery, technical feasibility, and client priorities.*
+
+*© 2026 Layer Zero Studio. All rights reserved.*
