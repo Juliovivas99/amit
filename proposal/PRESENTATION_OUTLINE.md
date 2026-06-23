@@ -13,7 +13,7 @@
 | Attribute | Detail |
 |---|---|
 | **Duration** | 30–45 minutes + 15 minutes Q&A |
-| **Slides** | ~22–25 slides |
+| **Slides** | ~25–28 slides |
 | **Tone** | Consultative, professional, practical |
 | **Goal** | Secure engagement approval and retainer selection |
 
@@ -43,8 +43,10 @@ June 2026
 3. Platform scope (three dashboards)
 4. Delivery roadmap
 5. Investment options
-6. Our recommendation
-7. Next steps
+6. What the 3-month retainer covers
+7. Phase 2 / optional enhancements
+8. Our recommendation
+9. Next steps
 
 > **Speaker Notes:** Set expectation that we'll cover the full picture and leave time for questions.
 
@@ -241,8 +243,8 @@ A custom internal operating system — three dashboards, one application:
 
 **Out of scope:**
 - Third-party license fees (Yardi, Entrata, CoStar, M365)
-- Cloud hosting (~$200–500/month)
-- AI API usage (~$50–200/month)
+- Cloud hosting (~$30–100/month)
+- AI API usage (~$20–75/month)
 - Mobile native apps
 - Full replacement of existing systems
 
@@ -278,21 +280,54 @@ A custom internal operating system — three dashboards, one application:
 | **Investment** | $60,000–$80,000 (full contracted V1) | $8,000/month (development capacity) |
 | **Delivery commitment** | Contractual — locked SOW | Iterative — monthly prioritized releases |
 | **Timeline to V1** | ~12–16 weeks (contractual) | Target ~12–16 weeks with continued engagement |
-| **Initial Commitment** | Milestone-based | 3 months ($24,000) — foundation + MVP path |
+| **Initial Commitment** | Milestone-based | 3 months ($24,000) — usable MVP; not same scope as fixed-price V1 |
 | **Capacity** | Scoped to SOW | ~20 hrs/week (80 hrs/mo) |
 | **Flexibility** | Low — formal scope management | High — continuous discovery, evolving priorities |
 | **Risk** | Absorbed by developer | Shared — client directs priorities |
 | **Support** | Limited post-acceptance | Included in retainer capacity |
 | **Best for** | Locked scope before build | Evolving requirements |
 
-> **Speaker Notes:** These are not two prices for the same deliverable. Fixed price is a contractual V1 build. The retainer is an iterative partnership — $24K buys ~240 hours of capacity, not a guaranteed full V1.
+> **Speaker Notes:** These are not two prices for the same deliverable. Say this explicitly: "The initial 3-month retainer is designed to deliver a usable MVP, not every advanced capability in the full V1 roadmap. The fixed-price option is higher because it includes a formally scoped production-ready V1, delivery commitment, and project risk buffer." Fixed price = contractual V1 build. Retainer = iterative partnership — $24K delivers a usable MVP, not a guaranteed full V1.
 
 ---
 
-### SLIDE 18: Option 1 — Fixed Price
+### SLIDE 18: What the 3-Month Retainer Covers
+
+**$24,000 initial commitment — month by month:**
+
+| Month | Focus |
+|---|---|
+| **Month 1** | Discovery, architecture, database, core foundation, auth, initial dashboard structure |
+| **Month 2** | Acquisition Dashboard — deal pipeline, notes, documents, basic reporting |
+| **Month 3** | Property Management + Internal Management dashboards; MVP launch, testing, training |
+
+**Expected outcome:** Usable MVP with all three dashboards — not the same scope as the $60,000–$80,000 fixed-price V1.
+
+> **Speaker Notes:** Walk through each month concretely. This is what $24K buys. Be clear it does not include every advanced integration, AI feature, or full production-ready V1 capability.
+
+---
+
+### SLIDE 19: Phase 2 — Optional Month-to-Month Enhancements
+
+**After MVP — continued at $8,000/month:**
+
+- Communications integrations
+- AI-powered search and AI-assisted summaries
+- Workflow automation
+- Deeper Yardi/Entrata/CoStar visibility
+- Advanced reporting
+- Additional dashboards or workflows
+- Ongoing support and improvements
+
+> **Speaker Notes:** Frame Phase 2 as optional and prioritized based on real use. Production-ready V1 typically requires continued engagement beyond three months, or can be contracted upfront under fixed price.
+
+---
+
+### SLIDE 20: Option 1 — Fixed Price
 
 **$60,000–$80,000 | ~12–16 weeks to production-ready V1 (contractual)**
 
+- Best for a formally scoped production-ready V1 with full scope committed upfront
 - Locked requirements and defined deliverables per statement of work
 - Milestone-based payments with written acceptance
 - Formal scope management — change orders for material additions
@@ -307,25 +342,26 @@ Additional work outside the agreed scope may require a separate written change o
 
 ---
 
-### SLIDE 19: Option 2 — Monthly Retainer *(Recommended)*
+### SLIDE 21: Option 2 — Monthly Retainer *(Recommended)*
 
 **$8,000/month | up to 80 hours | 3-month initial commitment ($24,000)**
 
-- Iterative releases — highest-value workflows first
-- Continuous discovery alongside development
-- Flexible monthly prioritization as needs clarify
-- Scope evolves as the team learns what they need
-- After initial 3 months: continues month-to-month at $8,000/month unless canceled
+- Best for iterative development — highest-value workflows first
+- Expected outcome: usable MVP, not every advanced integration or full V1 capability in first 3 months
+- Iterative releases with flexible monthly prioritization
+- After MVP: continues month-to-month for communications, AI, automation, and deeper integrations
 
-**Not included:** A guaranteed full production-ready V1 within the initial three-month term. The $24,000 commitment funds ~240 hours — typically discovery, foundation, and an MVP path.
+**Not the same as fixed price:** The $24,000 commitment delivers a usable MVP with three dashboards — not the $60,000–$80,000 production-ready V1 scope.
 
-> **Speaker Notes:** Frame as a partnership, not a subscription discount. "You get dedicated lead-engineer capacity — iterative delivery that can reach V1 over 12–16 weeks if the engagement continues, not a $24K shortcut to the same contracted build as fixed price."
+> **Speaker Notes:** Frame as a partnership, not a subscription discount. "You get dedicated lead-engineer capacity — a usable platform in front of the team quickly, not a $24K shortcut to the same contracted build as fixed price."
 
 ---
 
-### SLIDE 20: Our Recommendation
+### SLIDE 22: Our Recommendation
 
 **We recommend the Monthly Retainer at $8,000/month.**
+
+> **My recommendation is the retainer path because it gets a usable platform in front of the team quickly, lets us validate the highest-value workflows, and avoids overbuilding features before the team has used the system.**
 
 **Why:**
 
@@ -339,24 +375,24 @@ Additional work outside the agreed scope may require a separate written change o
 
 ---
 
-### SLIDE 21: Total Investment Summary
+### SLIDE 23: Total Investment Summary
 
 | Item | Fixed Price | Retainer |
 |---|---|---|
 | **Contracted V1 development** | $60,000–$80,000 | Not applicable — capacity-based, not scope-guaranteed |
-| **Initial retainer commitment** | — | $24,000 (3 months; foundation + MVP path) |
-| **Hosting (annual)** | ~$3,000 – $6,000 | ~$3,000 – $6,000 |
-| **AI API (annual)** | ~$600 – $2,400 | ~$600 – $2,400 |
+| **Initial retainer commitment** | — | $24,000 (3 months; usable MVP) |
+| **Hosting (annual)** | ~$360 – $1,200 | ~$360 – $1,200 |
+| **AI API (annual)** | ~$240 – $900 | ~$240 – $900 |
 
 **Fixed price:** Delivers the full agreed V1 scope in approximately 12–16 weeks after kickoff.
 
-**Retainer:** Usable increments from early weeks; MVP typically in ~8–12 weeks; production-ready V1 targeted in ~12–16 weeks with continued engagement beyond the initial three months. The initial three-month commitment ($24,000) does not guarantee every advanced integration or AI feature — it funds foundation and an MVP path, with month-to-month continuation available if needed.
+**Retainer:** Usable MVP by end of initial three months (~8–12 weeks from kickoff). Production-ready V1 targeted in ~12–16 weeks with continued month-to-month engagement. The initial three-month commitment ($24,000) does not guarantee every advanced integration or AI feature — it delivers a usable MVP, with Phase 2 enhancements available month-to-month.
 
-> **Speaker Notes:** Put the numbers in context. "Fixed price is buying a defined outcome. The retainer is buying monthly capacity to build iteratively — they're different products."
+> **Speaker Notes:** Put the numbers in context. "Fixed price is buying a defined production-ready V1 outcome. The retainer is buying monthly capacity to build iteratively — they're different products at different price points for different reasons."
 
 ---
 
-### SLIDE 22: Agreement Highlights
+### SLIDE 24: Agreement Highlights
 
 - Payment: monthly in advance (retainer) or milestone-based (fixed)
 - Retainer: 3-month initial term ($24,000); month-to-month after unless canceled
@@ -370,7 +406,7 @@ Additional work outside the agreed scope may require a separate written change o
 
 ---
 
-### SLIDE 23: Why Layer Zero Studio
+### SLIDE 25: Why Layer Zero Studio
 
 - Custom internal platform development for operational businesses
 - Integration expertise across property management and productivity systems
@@ -382,7 +418,7 @@ Additional work outside the agreed scope may require a separate written change o
 
 ---
 
-### SLIDE 24: Next Steps
+### SLIDE 26: Next Steps
 
 | Step | Timeline |
 |---|---|
@@ -398,7 +434,7 @@ Additional work outside the agreed scope may require a separate written change o
 
 ---
 
-### SLIDE 25: Discussion
+### SLIDE 27: Discussion
 
 **Questions?**
 
@@ -426,10 +462,13 @@ Additional work outside the agreed scope may require a separate written change o
 ### A5: Change Order Process
 *Fixed price scope change procedures*
 
-### A6: Retainer Monthly Cadence
-*Bi-weekly updates, monthly planning, roadmap reprioritization*
+### A6: Retainer Month-by-Month Coverage
+*Month 1–3 deliverables and expected MVP outcome*
 
-### A7: Agreement Terms Summary
+### A7: Phase 2 Optional Enhancements
+*Communications, AI, automation, deeper integrations*
+
+### A8: Agreement Terms Summary
 *Payment, IP ownership, AI limitations, termination, milestone approval*
 
 ---

@@ -35,13 +35,15 @@ Open in any browser — ready for client presentation or Print → Save as PDF.
 |---|---|
 | **Client** | Amit — Real Estate Investment & Property Management |
 | **Prepared By** | Layer Zero Studio |
-| **Recommended Model** | Monthly Retainer — $8,000/month (iterative; not a contracted full V1 delivery) |
-| **Alternative Model** | Fixed Price — $60,000–$80,000 (locked scope, contractual V1 delivery) |
-| **Initial Retainer Commitment** | 3 months ($24,000) — foundation + MVP path; not every integration or AI feature in first term |
+| **Recommended Model** | Monthly Retainer — $8,000/month (3-month initial commitment delivers usable MVP; not same scope as fixed-price V1) |
+| **Alternative Model** | Fixed Price — $60,000–$80,000 (formally scoped production-ready V1 with contractual delivery) |
+| **Initial Retainer Commitment** | 3 months ($24,000) — usable MVP with three dashboards; advanced integrations and AI are Phase 2 |
 | **Production-Ready V1** | Approximately 12–16 weeks after kickoff |
 | **MVP Delivery** | Approximately 8–12 weeks |
 
 This is a lean internal operating system for approximately 5 users and 2–3 acquisitions reviewed per month, not a year-long enterprise rollout.
+
+**Retainer vs. fixed price:** The initial 3-month retainer ($24,000) delivers a usable MVP — not every advanced capability in the full V1 roadmap. The fixed-price option ($60,000–$80,000) includes a formally scoped production-ready V1, delivery commitment, and project risk buffer.
 
 ---
 

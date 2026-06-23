@@ -15,7 +15,7 @@
 | **Total Investment** | $60,000–$80,000 (full contracted V1 scope) | $8,000 / month (development capacity) |
 | **Delivery commitment** | Contractual — locked SOW deliverables | Iterative — monthly prioritized releases |
 | **Timeline to V1** | ~12–16 weeks (contractual) | Target ~12–16 weeks with continued engagement; not guaranteed in 3 months |
-| **Initial Commitment** | Milestone-based | 3 months ($24,000) — foundation + MVP path |
+| **Initial Commitment** | Milestone-based | 3 months ($24,000) — usable MVP; not same scope as fixed-price V1 |
 | **Capacity** | Scoped to SOW | ~20 hrs/week (up to 80 hrs/mo) |
 
 ---
@@ -45,12 +45,39 @@ The build plan is organized into eight phases. With a solo lead engineer working
 |---|---|---|
 | **MVP** | 8–12 weeks | Discovery, platform foundation, acquisition dashboard, and earliest usable workflows |
 | **Production-ready V1** | 12–16 weeks | All three dashboards, core integrations, initial AI features, QA, training, and launch |
-| **Retainer initial commitment** | 3 months ($24,000) | Foundation + MVP path — does not guarantee every advanced integration or AI feature |
+| **Retainer initial commitment** | 3 months ($24,000) | Usable MVP with three dashboards — not every advanced integration, AI feature, or full production-ready V1 capability |
 | **Fixed price V1** | $60,000–$80,000 | Formally scoped V1 with defined deliverables, risk buffer, and contractual delivery commitment (~12–16 weeks) |
 
-> **Positioning:** This is a lean internal operating system for approximately 5 users and 2–3 acquisitions reviewed per month, not a year-long enterprise rollout.
+> **Positioning:** The initial 3-month retainer is designed to deliver a usable MVP, not every advanced capability in the full V1 roadmap. The fixed-price option is higher because it includes a formally scoped production-ready V1, delivery commitment, and project risk buffer.
 
-> **Note on pricing models:** **Fixed price ($60,000–$80,000)** reflects a formally scoped V1 with defined deliverables, risk buffer, and a contractual commitment to deliver the full agreed V1 within approximately 12–16 weeks. **The retainer ($8,000/month)** provides up to 80 hours of development capacity per month for iterative, prioritized delivery. The initial three-month commitment ($24,000) typically delivers discovery, platform foundation, and a usable MVP — not every advanced integration or AI feature in the first term. The engagement can continue month-to-month if needed to reach production-ready V1.
+> **Note on pricing models:** **Fixed price ($60,000–$80,000)** is best for a formally scoped production-ready V1 — defined deliverables, locked requirements, formal scope management, risk buffer, and contractual delivery commitment (~12–16 weeks). **The retainer ($8,000/month)** provides up to 80 hours of development capacity per month for iterative, prioritized delivery. The initial three-month commitment ($24,000) delivers a usable MVP with all three dashboards — not every advanced integration, AI feature, or full production-ready V1 feature in the first term. The engagement can continue month-to-month after MVP for communications integrations, AI search, automation, advanced workflows, and deeper third-party integrations.
+
+---
+
+## What the Initial 3-Month Retainer Covers
+
+| Month | Focus | Deliverables |
+|---|---|---|
+| **Month 1** | Foundation | Discovery and workflow mapping; technical architecture; database/data model; core platform foundation; authentication and user access; initial dashboard structure |
+| **Month 2** | Acquisition | Acquisition Dashboard; deal pipeline; deal notes; document organization; internal workflow structure; basic reporting/visibility |
+| **Month 3** | MVP launch | Property Management Dashboard; Internal Management Dashboard; MVP launch; user testing; initial training; feedback-driven adjustments |
+
+**Expected outcome after Month 3:** A usable MVP the team can begin using daily. Not the same scope as the $60,000–$80,000 fixed-price production-ready V1.
+
+---
+
+## Phase 2 / Optional Month-to-Month Enhancements
+
+After the MVP, continued month-to-month work at $8,000/month may include:
+
+- Communications integrations
+- AI-powered search
+- AI-assisted summaries
+- Workflow automation
+- Deeper Yardi/Entrata/CoStar visibility
+- Advanced reporting
+- Additional dashboards or workflows
+- Ongoing support and improvements
 
 ---
 
@@ -98,16 +125,17 @@ The fixed price option requires a clearly defined scope before development begin
 
 | Period | Focus | Monthly | Cumulative |
 |---|---|---|---|
-| Months 1–2 | Phases 1–3: Discovery, foundation, and acquisition dashboard (MVP path) | $8,000 | $16,000 |
-| Month 3 | Phases 4–5: Property management and internal dashboards (if prioritized) | $8,000 | $24,000 |
-| Month 4+ (optional) | Phases 6–8, integrations, AI, launch, and ongoing enhancements | $8,000 | Continues month-to-month |
+| Month 1 | Discovery, architecture, core foundation, auth, initial dashboard structure | $8,000 | $8,000 |
+| Month 2 | Acquisition Dashboard — deal pipeline, notes, documents, basic reporting | $8,000 | $16,000 |
+| Month 3 | Property Management + Internal Management dashboards; MVP launch, testing, training | $8,000 | $24,000 |
+| Month 4+ (optional) | Communications, AI, deeper integrations, automation, ongoing enhancements | $8,000 | Continues month-to-month |
 
 **Initial commitment:** 3 months ($24,000)  
-**What it typically delivers:** Discovery, platform foundation, and an acquisition-focused MVP path — not every advanced integration or AI feature in the first term  
-**After initial term:** Continues month-to-month at $8,000/month for enhancements, support, integrations, automation, and AI workflow expansion unless canceled with written notice  
+**Expected outcome:** Usable MVP with all three dashboards — not every advanced integration, AI feature, or full production-ready V1 capability  
+**After initial term:** Continues month-to-month at $8,000/month for Phase 2 enhancements unless canceled with written notice  
 **Capacity:** ~20 hours per week (up to 80 hours per month)
 
-The retainer funds ongoing development capacity and monthly prioritization. It is not priced or structured as a discounted alternative to the fixed-price V1 deliverable.
+The retainer funds ongoing development capacity and monthly prioritization. It is not priced or structured as a discounted alternative to the fixed-price V1 deliverable. For a formally scoped production-ready V1 with contractual delivery commitment, the fixed-price option ($60,000–$80,000) is the appropriate path.
 
 ---
 
@@ -115,10 +143,10 @@ The retainer funds ongoing development capacity and monthly prioritization. It i
 
 | Item | Monthly (Low) | Monthly (High) | Annual (Low) | Annual (High) |
 |---|---|---|---|---|
-| Cloud hosting (AWS/Azure) | $200 | $500 | $2,400 | $6,000 |
-| AI API usage | $50 | $200 | $600 | $2,400 |
+| Cloud hosting (Vercel, AWS, or similar) | $30 | $100 | $360 | $1,200 |
+| AI API usage | $20 | $75 | $240 | $900 |
 | Domain & SSL | — | — | $15 | $50 |
-| **Total Ongoing** | **$250** | **$700** | **$3,015** | **$8,450** |
+| **Total Ongoing** | **$50** | **$175** | **$615** | **$2,150** |
 
 ---
 
