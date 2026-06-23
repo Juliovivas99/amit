@@ -13,7 +13,7 @@ Open in any browser — ready for client presentation or Print → Save as PDF.
 |---|---|---|
 | **Package Hub** | [index.html](./index.html) | Landing page with quick stats and navigation |
 | **Client Proposal** | [proposal.html](./proposal.html) | Full 10-section proposal, Layer Zero branded |
-| **Project Estimate** | [estimate.html](./estimate.html) | Phase-by-phase effort and cost breakdown |
+| **Project Estimate** | [estimate.html](./estimate.html) | Delivery timeline, resource allocation, and pricing |
 
 **Brand assets:** [assets/layerzero.css](./assets/layerzero.css) · [assets/logo.svg](./assets/logo.svg)
 
@@ -37,9 +37,11 @@ Open in any browser — ready for client presentation or Print → Save as PDF.
 | **Prepared By** | Layer Zero Studio |
 | **Recommended Model** | Monthly Retainer — $8,000/month (iterative; not a contracted full V1 delivery) |
 | **Alternative Model** | Fixed Price — $60,000–$80,000 (locked scope, contractual V1 delivery) |
-| **Initial Retainer Commitment** | 3 months ($24,000) — foundation + MVP path; full V1 requires continued engagement |
+| **Initial Retainer Commitment** | 3 months ($24,000) — foundation + MVP path; not every integration or AI feature in first term |
 | **Production-Ready V1** | Approximately 12–16 weeks after kickoff |
 | **MVP Delivery** | Approximately 8–12 weeks |
+
+This is a lean internal operating system for approximately 5 users and 2–3 acquisitions reviewed per month, not a year-long enterprise rollout.
 
 ---
 

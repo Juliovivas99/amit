@@ -37,7 +37,7 @@
 
 Amit operates a real estate investment and property management business across a fragmented set of tools — Microsoft Teams, Outlook, Yardi, Entrata, CoStar, Excel, Word, PowerPoint, Claude and other AI tools, and additional real estate systems. Each tool serves a purpose, but none of them work together as a single operating layer.
 
-Layer Zero Studio proposes a **Unified Real Estate Operations Platform** — a custom internal operating system built around three focused dashboards: Acquisition, Property Management, and Internal Management. This is not an enterprise-scale replacement project. With a team of approximately five users evaluating 2–3 deals per month, the platform is designed to start lean, deliver practical value quickly, and expand over time as workflows become clearer through real use.
+Layer Zero Studio proposes a **Unified Real Estate Operations Platform** — a custom internal operating system built around three focused dashboards: Acquisition, Property Management, and Internal Management. This is a lean internal operating system for approximately 5 users and 2–3 acquisitions reviewed per month, not a year-long enterprise rollout. The platform is designed to start lean, deliver practical value quickly, and expand over time as workflows become clearer through real use.
 
 The high-level outcome is straightforward: one place to review deals, manage properties, track internal work, reference communications, organize documents, and eventually support AI-assisted search and workflow automation — without forcing your team to abandon the specialized tools they already rely on.
 
@@ -171,6 +171,7 @@ Two pricing options are available. Both work toward the same long-term platform 
 **Best for:** Clearly defined scope with limited changes after approval.
 
 - Locked requirements and defined deliverables per agreed statement of work
+- Formally scoped V1 with risk buffer and contractual delivery commitment (~12–16 weeks)
 - Milestone-based payments tied to written acceptance of phase deliverables
 - Budget certainty for approved scope
 - Formal scope management — change orders required for material additions
@@ -197,7 +198,7 @@ The fixed price option requires a clearly defined scope before development begin
 - Highest-value workflows first — not every phase or integration on a fixed schedule
 - Scope evolves as real use clarifies requirements
 
-The initial three-month retainer ($24,000) typically funds discovery, platform foundation, and an acquisition-focused MVP path. Delivering the full eight-phase, production-ready V1 scope requires substantially more effort (estimated 700–970+ hours) and typically continues across multiple retainer periods — or is contracted under the fixed-price option.
+The initial three-month retainer ($24,000) typically funds discovery, platform foundation, and an acquisition-focused MVP path. It does **not** guarantee every advanced integration or AI feature in the first three months. The engagement can continue month-to-month if needed to reach production-ready V1, or the full scoped V1 can be contracted under the fixed-price option ($60,000–$80,000), which includes formally defined deliverables, risk buffer, and a delivery commitment.
 
 ### Pricing Comparison
 
@@ -372,7 +373,7 @@ Any work outside the agreed statement of work — including additional integrati
 | 5 | Kickoff and access provisioning | Both | Week of kickoff |
 | 6 | Phase 1: Discovery and workflow mapping begins | Layer Zero Studio | Kickoff + 1 week |
 
-See the companion **ESTIMATE.md** for phase-by-phase effort and cost breakdowns.
+See the companion **ESTIMATE.md** for delivery timeline and cost breakdown.
 
 ---
 

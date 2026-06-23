@@ -126,7 +126,7 @@ A custom internal operating system — three dashboards, one application:
 2. **Property Management Dashboard** — Portfolio visibility, occupancy, collections, cash flow, Yardi/Entrata data
 3. **Internal Management Dashboard** — Tasks, follow-ups, communications, accountability, AI search
 
-> **Speaker Notes:** This is not an enterprise replacement project. It's a purpose-built internal OS that starts lean and grows with use.
+> **Speaker Notes:** This is not an enterprise replacement project. It is a lean internal operating system for approximately 5 users and 2–3 acquisitions reviewed per month, not a year-long enterprise rollout. Purpose-built internal OS that starts lean and grows with use.
 
 ---
 
@@ -350,7 +350,7 @@ Additional work outside the agreed scope may require a separate written change o
 
 **Fixed price:** Delivers the full agreed V1 scope in approximately 12–16 weeks after kickoff.
 
-**Retainer:** Usable increments from early weeks; MVP typically in ~8–12 weeks; production-ready V1 targeted in ~12–16 weeks with continued engagement beyond the initial three months. Full eight-phase scope (700–970+ hours) typically requires 9–12+ months at retainer capacity.
+**Retainer:** Usable increments from early weeks; MVP typically in ~8–12 weeks; production-ready V1 targeted in ~12–16 weeks with continued engagement beyond the initial three months. The initial three-month commitment ($24,000) does not guarantee every advanced integration or AI feature — it funds foundation and an MVP path, with month-to-month continuation available if needed.
 
 > **Speaker Notes:** Put the numbers in context. "Fixed price is buying a defined outcome. The retainer is buying monthly capacity to build iteratively — they're different products."
 
