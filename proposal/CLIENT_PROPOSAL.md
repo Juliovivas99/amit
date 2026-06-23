@@ -27,11 +27,13 @@
 5. [Pricing Options](#5-pricing-options)
 6. [What the Initial 3-Month Retainer Covers](#6-what-the-initial-3-month-retainer-covers)
 7. [Phase 2 / Optional Enhancements](#7-phase-2--optional-enhancements)
-8. [Recommendation](#8-recommendation)
-9. [Assumptions](#9-assumptions)
-10. [Out of Scope](#10-out-of-scope)
-11. [Agreement Terms](#11-agreement-terms)
-12. [Next Steps](#12-next-steps)
+8. [Why We Recommend the Phase 1 Engagement](#8-why-we-recommend-the-phase-1-engagement)
+9. [Security Approach](#9-security-approach)
+10. [Assumptions](#10-assumptions)
+11. [Out of Scope](#11-out-of-scope)
+12. [Agreement Terms](#12-agreement-terms)
+13. [Acceptance](#13-acceptance)
+14. [Next Steps](#14-next-steps)
 
 ---
 
@@ -39,16 +41,16 @@
 
 Amit operates a real estate investment and property management business across a fragmented set of tools — Microsoft Teams, Outlook, Yardi, Entrata, CoStar, Excel, Word, PowerPoint, Claude and other AI tools, and additional real estate systems. Each tool serves a purpose, but none of them work together as a single operating layer.
 
-Layer Zero Studio proposes a **Unified Real Estate Operations Platform** — a custom internal operating system built around three focused dashboards: Acquisition, Property Management, and Internal Management. This is a lean internal operating system for approximately 5 users and 2–3 acquisitions reviewed per month, not a year-long enterprise rollout. The platform is designed to start lean, deliver practical value quickly, and expand over time as workflows become clearer through real use.
+Layer Zero Studio proposes a **Unified Real Estate Operations Platform** — a custom internal operating system that **first centralizes communications** across Outlook, Teams, email, and other channels into a single workspace, then layers three focused dashboards on top: Acquisition, Property Management, and Internal Management. This is a lean internal operating system for approximately 5 users and 2–3 acquisitions reviewed per month, not a year-long enterprise rollout. The platform is designed to start lean, deliver practical value quickly, and expand over time as workflows become clearer through real use.
 
-The high-level outcome is straightforward: one place to review deals, manage properties, track internal work, reference communications, organize documents, and eventually support AI-assisted search and workflow automation — without forcing your team to abandon the specialized tools they already rely on.
+**The first objective is to centralize communications and create a unified operational workspace.** The dashboard modules are then layered on top of that foundation. The high-level outcome is straightforward: one place to manage communications, review deals, manage properties, track internal work, organize documents, and support AI-assisted search and workflow automation — without forcing your team to abandon the specialized tools they already rely on.
 
 ### Engagement at a Glance
 
 | Dimension | Detail |
 |---|---|
-| **Primary Objective** | Custom internal operating system for day-to-day real estate operations |
-| **Platform Modules** | Acquisition Dashboard, Property Management Dashboard, Internal Management Dashboard |
+| **Primary Objective** | Centralize communications into a unified operational workspace |
+| **Platform Modules** | Communications Hub, Acquisition Dashboard, Property Management Dashboard, Internal Management Dashboard |
 | **Recommended Approach** | Monthly Retainer — $8,000/month |
 | **Alternative Approach** | Fixed Price — $60,000–$80,000 (scope locked before development) |
 | **MVP Delivery** | Approximately 8–12 weeks |
@@ -69,6 +71,7 @@ The goal of this project is to give Amit a single internal platform that support
 
 | Objective | Description |
 |---|---|
+| **Centralize Communications** | Unify email, Outlook, Teams, and other communication channels into a single operational workspace — the highest-priority pain point |
 | **Centralize Operations** | Bring deal information, property records, tasks, notes, documents, and internal activity into one structured environment |
 | **Reduce Tool-Switching** | Minimize time spent moving between Outlook, Teams, Yardi, Entrata, CoStar, spreadsheets, documents, and AI tools |
 | **Improve Visibility** | Give leadership and team members clearer visibility into deal status, property operations, follow-ups, and internal priorities |
@@ -76,17 +79,30 @@ The goal of this project is to give Amit a single internal platform that support
 
 ### Current Operational Friction
 
-Today, critical information lives across disconnected systems. Deal context sits in email threads and files. Property operations are split between Yardi, Entrata, and manual reporting. Internal tasks and follow-ups are tracked inconsistently across Teams, Outlook, spreadsheets, and individual calendars. AI tools are used reactively, without connection to deals, properties, or accountability.
+Today, critical information lives across disconnected systems. Communications are scattered across Outlook, Teams, and email with no unified view. Deal context sits in email threads and files. Property operations are split between Yardi, Entrata, and manual reporting. Internal tasks and follow-ups are tracked inconsistently across Teams, Outlook, spreadsheets, and individual calendars. AI tools are used reactively, without connection to deals, properties, or accountability.
 
-This platform addresses those gaps through a practical phased build — starting with the highest-value workflows first, then layering in integrations, communications, and AI capabilities as the foundation is in place.
+This platform addresses those gaps through a practical phased build — **starting with the communications layer first**, then layering acquisition, property management, and internal dashboards on top of that unified workspace.
 
 ---
 
 ## 3. Proposed Platform
 
-The platform is organized into three dashboards within one unified web application, sharing a common foundation for users, records, documents, tasks, and search.
+The platform is organized as one unified web application with a **communications hub at its core**, sharing a common foundation for users, records, documents, tasks, and search. Three operational dashboards — Acquisition, Property Management, and Internal Management — are layered on top of that communications foundation.
 
-### 3.1 Acquisition Dashboard
+### 3.1 Communications Hub *(Primary — Built First)*
+
+The central workspace for managing communications across Outlook, email, Teams, and other channels — addressing the highest-priority operational pain point.
+
+| Capability | Description |
+|---|---|
+| **Unified Communications Workspace** | Single view of email, messages, and communication activity across connected channels |
+| **Email Visibility & Management** | Outlook/email integration where technically feasible; visibility into threads, follow-ups, and status |
+| **Internal Notes & Collaboration** | Shared notes and commentary tied to communications, deals, properties, or projects |
+| **Search Across Communications** | Find messages, threads, and related context without switching systems |
+| **AI-Assisted Communication Workflows** | Initial AI support for summaries, follow-up suggestions, and communication triage (phased rollout) |
+| **Entity Linking** | Connect communications to deals, properties, and internal tasks as dashboard modules come online |
+
+### 3.2 Acquisition Dashboard
 
 Supports your deal evaluation workflow — approximately 2–3 acquisitions reviewed per month — with a lean starting point that expands into AI-assisted review over time.
 
@@ -99,7 +115,7 @@ Supports your deal evaluation workflow — approximately 2–3 acquisitions revi
 | **Basic Deal Analysis** | Structured fields for pricing, returns, risks, and key underwriting inputs |
 | **AI-Assisted Summaries** | Deal and document summaries as data quality allows; foundation for future underwriting workflows |
 
-### 3.2 Property Management Dashboard
+### 3.3 Property Management Dashboard
 
 Portfolio-level visibility for managed properties — starting with structured records and manual inputs, then layering in Yardi and Entrata data where technically feasible.
 
@@ -112,7 +128,7 @@ Portfolio-level visibility for managed properties — starting with structured r
 | **Yardi / Entrata Data Visibility** | Phased connection to property management data where APIs, licensing, and access allow |
 | **Property-Level Tasks & Notes** | Operational tasks, vendor updates, and internal notes tied to each property |
 
-### 3.3 Internal Management Dashboard
+### 3.4 Internal Management Dashboard
 
 The operational nerve center for your team of approximately five users.
 
@@ -128,11 +144,12 @@ The operational nerve center for your team of approximately five users.
 
 ### Build Principles
 
-1. **Integrate, don't replace** — Yardi, Entrata, CoStar, and other specialized systems remain in place where needed
-2. **Start lean, grow deliberately** — Prioritize the workflows that create the most immediate operational value
-3. **Structure before automation** — Clean records and consistent data entry enable useful AI later
-4. **Right-sized for your team** — Built for approximately five users and 2–3 deals per month, with room to expand
-5. **You own the platform** — Full code ownership with no vendor lock-in upon payment
+1. **Communications first** — Centralize the communications layer before layering operational dashboards on top
+2. **Integrate, don't replace** — Yardi, Entrata, CoStar, and other specialized systems remain in place where needed
+3. **Start lean, grow deliberately** — Prioritize the workflows that create the most immediate operational value
+4. **Structure before automation** — Clean records and consistent data entry enable useful AI later
+5. **Right-sized for your team** — Built for approximately five users and 2–3 deals per month, with room to expand
+6. **You own the platform** — Full code ownership with no vendor lock-in upon payment
 
 ---
 
@@ -142,18 +159,48 @@ The platform will be built in eight phases. Each phase produces usable progress.
 
 | Phase | Name | Duration (est.) | Primary Deliverables |
 |---|---|---|---|
-| **Phase 1** | Discovery & Architecture | 1–2 weeks | Workflow documentation, tool inventory, integration priorities, user roles, data sources, dashboard requirements, and success criteria |
+| **Phase 1** | Discovery & Architecture | 1–2 weeks | Workflow documentation, communication workflow mapping, tool inventory, integration priorities, user roles, data sources, and success criteria |
 | **Phase 2** | Core Platform Foundation | 2–3 weeks | Authentication, user roles, navigation, database structure, dashboard shell, core records, and base admin functionality |
-| **Phase 3** | Acquisition Dashboard | 2–4 weeks | Deal pipeline, broker communication tracking, deal notes, document organization, basic deal analysis, AI-ready structure |
-| **Phase 4** | Property Management Dashboard | 2–4 weeks | Property records, portfolio visibility, occupancy/collections/cash flow tracking, Yardi/Entrata visibility where feasible, property-level tasks and notes |
-| **Phase 5** | Internal Management Dashboard | 2–3 weeks | Internal tasks, follow-up tracking, communications visibility, team accountability, internal notes, executive summaries |
-| **Phase 6** | Communications Layer | 2–4 weeks | Email/calendar integration via Microsoft 365 where feasible; entity linking to deals and properties |
-| **Phase 7** | AI Search & Workflow Features | 2–4 weeks | AI search across approved platform data, summaries, document lookup, and workflow assistance |
-| **Phase 8** | QA, Launch & Training | 1–2 weeks | QA, bug fixes, user testing, training, launch support, and post-launch refinements |
+| **Phase 3** | Communications Layer & Hub Architecture | 2–4 weeks | Communication hub architecture, initial email/Outlook integration where technically feasible, communication dashboard framework |
+| **Phase 4** | Unified Communications Workspace | 2–4 weeks | Unified communications workspace, email visibility and management, internal notes and collaboration, search across communications |
+| **Phase 5** | AI-Assisted Communication Workflows | 1–2 weeks | Initial AI-assisted communication workflows, user feedback, and iteration |
+| **Phase 6** | Acquisition Dashboard | 2–4 weeks | Deal pipeline, broker communication tracking, deal notes, document organization, basic deal analysis, AI-ready structure |
+| **Phase 7** | Property & Internal Management Dashboards | 2–4 weeks | Property records, portfolio visibility, occupancy/collections/cash flow tracking, internal tasks, follow-up tracking, team accountability |
+| **Phase 8** | QA, Launch & Training | 1–2 weeks | MVP launch, QA, bug fixes, user testing, training, launch support, and post-launch refinements |
 
-**Phasing approach:** Phases 1–2 establish the foundation. Phases 3–5 deliver the three core dashboards. Phases 6–7 add communications and AI capabilities once structured data exists. Phase 8 ensures the platform is tested, adopted, and refined. Some phases may overlap depending on priority, technical access, and which workflows are selected for the MVP. Under a retainer, phases can also be reprioritized based on what delivers the most value earliest.
+**Phasing approach:** **The first objective is to centralize communications and create a unified operational workspace.** Phases 1–2 establish the foundation. Phases 3–5 deliver the communications layer — the client's highest priority. Phases 6–7 layer the three dashboard modules on top of that unified workspace. Phase 8 ensures the platform is tested, adopted, and refined. Some phases may overlap depending on priority, technical access, and integration complexity. Under a retainer, phases can also be reprioritized based on what delivers the most value earliest.
 
-**MVP vs. production-ready V1:** Under the initial 3-month retainer, the expected path is Phases 1–5 plus MVP launch activities (Phase 8 in lean form) — core workflows across all three dashboards, not full communications integrations, third-party data visibility, or AI automation. Phases 6–7 and advanced capabilities are targeted for production-ready V1 under the fixed-price option (~12–16 weeks), or as Phase 2 / optional enhancements under continued retainer engagement. Work on advanced capabilities may begin during the initial engagement where practical, but is not guaranteed within the first three months.
+**MVP vs. production-ready V1:** Under the initial 3-month retainer, the expected path is Phases 1–8 — a communications-first MVP with all three dashboards launched by end of Month 3. Advanced capabilities (full Teams integration, deep Yardi/Entrata/CoStar sync, full AI search across all systems) are targeted for production-ready V1 under the fixed-price option (~12–16 weeks), or as Phase 2 / optional enhancements under continued retainer engagement.
+
+### MVP Definition
+
+The **MVP** (Minimum Viable Product) includes:
+
+- Core platform foundation
+- Authentication and user access
+- Database / data model
+- Communications hub and unified communications workspace
+- Initial email / Outlook integration where technically feasible
+- Email visibility, internal notes, collaboration, and search across communications
+- Initial AI-assisted communication workflows
+- Acquisition Dashboard
+- Property Management Dashboard
+- Internal Management Dashboard
+- MVP deployment
+- User testing
+- Team onboarding and training
+
+The MVP does **not** guarantee:
+
+- Full Outlook integration (initial integration where feasible is in scope)
+- Full Microsoft Teams integration
+- Full Yardi integration
+- Full Entrata integration
+- Full CoStar integration
+- AI search across all systems
+- AI automation agents
+- Advanced reporting
+- Deep third-party data syncs
 
 ---
 
@@ -165,7 +212,7 @@ Two pricing options are available. Both work toward the same long-term platform 
 
 **Fixed price ($60,000–$80,000)** is best when the client wants a production-ready V1 with full scope committed upfront. It includes defined deliverables, locked requirements, formal scope management, delivery commitment, and the planning, contingency, testing, and coordination overhead required when the developer assumes greater project risk.
 
-**The retainer ($8,000/month; $24,000 initial 3-month commitment)** is best for iterative development. It focuses on the highest-value workflows first. The expected outcome is a usable MVP — not every advanced integration, AI feature, or full production-ready V1 feature in the first three months. The engagement can continue month-to-month after MVP for communications integrations, AI search, automation, advanced workflows, and deeper third-party integrations.
+**The retainer ($8,000/month; $24,000 initial 3-month commitment)** is best for iterative development. It focuses on the highest-value workflows first — communications centralization, then operational dashboards. The expected outcome is a usable MVP — not every advanced integration, AI feature, or full production-ready V1 feature in the first three months. The engagement can continue month-to-month after MVP for full Teams integration, deep third-party data visibility, advanced AI search, automation, and expanded workflows.
 
 ### Option 1: Fixed Price Build
 
@@ -178,13 +225,19 @@ Two pricing options are available. Both work toward the same long-term platform 
 
 **Best for:** A formally scoped production-ready V1 with the full V1 scope committed upfront.
 
+- Higher upfront commitment
+- Fully scoped production-ready V1
 - Defined deliverables and locked requirements per agreed statement of work
 - Formal scope management — written change orders required for material additions
-- Contractual delivery commitment for the full agreed production-ready V1 scope (~12–16 weeks)
-- Greater project risk assumed by Layer Zero Studio (estimation uncertainty, integration variability, delivery accountability)
+- Formal milestone approvals
+- Contractual delivery commitment and delivery accountability (~12–16 weeks)
+- Greater project risk assumed by Layer Zero Studio (estimation uncertainty, integration variability)
 - Additional planning, contingency, testing, and coordination overhead built into the engagement
-- Budget certainty for approved scope — with reduced flexibility after scope approval
+- Budget certainty for approved scope — less flexibility after scope approval
 - Milestone-based payments tied to written acceptance of phase deliverables
+- More appropriate when requirements are stable and unlikely to change
+
+The final fixed-price quote within the **$60,000–$80,000** range depends on the confirmed scope, number of integrations, reporting requirements, AI functionality, data migration needs, and implementation complexity identified during discovery.
 
 The fixed price option requires a clearly defined scope before development begins. Material changes to scope, integrations, or AI functionality may require a written change order. Timeline may extend if third-party integrations are delayed, APIs are unavailable, or the client changes scope. Additional work outside the agreed scope may require a separate written change order or proposal.
 
@@ -201,13 +254,14 @@ The fixed price option requires a clearly defined scope before development begin
 
 **Best for:** Iterative development, evolving priorities, and building the highest-value workflows first.
 
-- $24,000 initial 3-month engagement — expected outcome is a usable MVP
-- Flexible priorities — reprioritize monthly as the team learns what they need
-- Continuous discovery alongside development
-- Iterative releases — usable increments from the first weeks of build
-- Highest-value workflows first — not every advanced integration, AI feature, or full V1 capability in the first three months
-- Scope evolves as real use clarifies requirements
-- Can continue month-to-month after MVP for communications integrations, AI search, automation, advanced workflows, and deeper third-party integrations
+- Lower upfront commitment ($24,000 initial term)
+- Faster start — development begins without a fully locked V1 scope
+- Iterative delivery with usable increments from early weeks
+- Usable MVP with unified communications workspace and all three dashboards by end of initial term
+- Shared prioritization — monthly roadmap aligned to business needs
+- Better for evolving requirements discovered through real use
+- Does not guarantee every advanced roadmap item within the first three months
+- Can continue month-to-month after MVP for full Teams integration, deeper third-party data visibility, advanced AI search, automation, and expanded workflows
 
 The initial three-month retainer ($24,000) does **not** deliver the same scope as the $60,000–$80,000 fixed-price V1. For a formally scoped production-ready V1 with defined deliverables, risk buffer, and contractual delivery commitment, the fixed-price option is the appropriate path.
 
@@ -227,7 +281,9 @@ The initial three-month retainer ($24,000) does **not** deliver the same scope a
 | **Integrations** | Defined at signing | Phased and adjusted as access allows |
 | **AI workflows** | Limited to agreed scope | Iterative tuning and expansion |
 | **Post-launch support** | Limited to agreed acceptance period | Included within retainer capacity |
-| **Best when** | Requirements are locked before build | Requirements will evolve with use |
+| **Best when** | Requirements are stable and locked | Requirements will evolve with use |
+| **Upfront commitment** | Higher — milestone-based ($60K–$80K) | Lower — $24,000 initial term |
+| **Flexibility after start** | Less — scope locked after approval | More — monthly shared prioritization |
 
 ### Additional Costs (Client Responsibility)
 
@@ -242,39 +298,38 @@ The initial three-month retainer ($24,000) does **not** deliver the same scope a
 
 ## 6. What the Initial 3-Month Retainer Covers
 
-The initial three-month retainer ($24,000) is structured to deliver a usable MVP — all three dashboards in a practical, launch-ready form — not every advanced capability in the full V1 roadmap.
+The initial three-month retainer ($24,000) is structured to deliver a usable MVP — a communications-first platform with unified workspace and all three dashboards in a practical, launch-ready form — not every advanced capability in the full V1 roadmap.
 
-The initial engagement is intended to deliver a usable MVP that centralizes core workflows and provides a foundation for future integrations, automation, and AI capabilities.
+The initial engagement is intended to deliver a usable MVP that **centralizes communications first**, then layers operational dashboards on top — providing a foundation for future integrations, automation, and AI capabilities.
 
 ### Month 1
 
-- Discovery
-- Workflow mapping
-- Architecture
-- Authentication
-- User access
-- Database design
+- Discovery and workflow mapping
 - Core platform foundation
+- Authentication and user access
+- Communication hub architecture
+- Initial email / Outlook integration where technically feasible
+- Communication dashboard framework
 
 ### Month 2
 
-- Acquisition Dashboard
-- Deal pipeline
-- Notes
-- Documents
-- Internal workflow structure
-- Basic visibility and reporting
+- Unified communications workspace
+- Email visibility and management
+- Internal notes and collaboration
+- Search across communications
+- Initial AI-assisted communication workflows
+- User feedback and iteration
 
 ### Month 3
 
+- Acquisition Dashboard
 - Property Management Dashboard
 - Internal Management Dashboard
 - MVP launch
-- User testing
-- Training
+- User training
 - Feedback-driven improvements
 
-**Expected outcome after Month 3:** A usable MVP with all three dashboards, core workflows, and a launched platform the team can begin using daily. Full Outlook integration, full Teams integration, full Yardi/Entrata/CoStar visibility, AI automation, and production-hardening beyond MVP scope are not guaranteed within the initial three-month term.
+**Expected outcome after Month 3:** A usable MVP with a unified communications workspace and all three dashboards that the team can begin using daily. Full Outlook integration, full Teams integration, full Yardi/Entrata/CoStar visibility, advanced AI automation, and production-hardening beyond MVP scope are not guaranteed within the initial three-month term.
 
 ---
 
@@ -282,13 +337,13 @@ The initial engagement is intended to deliver a usable MVP that centralizes core
 
 After the MVP, continued month-to-month work at $8,000/month may include:
 
-- Outlook integration
-- Microsoft Teams integration
+- Full Microsoft Teams integration
+- Full Outlook and calendar integration
 - Yardi visibility
 - Entrata visibility
 - CoStar visibility
-- AI-powered search
-- AI summaries
+- Full AI-powered search across all platform data
+- AI summaries and automation beyond communication workflows
 - Workflow automation
 - Advanced reporting
 - Additional dashboards
@@ -297,25 +352,29 @@ After the MVP, continued month-to-month work at $8,000/month may include:
 
 These features may begin during the initial engagement where practical, but are **not guaranteed within the first three months**. This phase is optional and prioritized monthly based on what delivers the most value after the team has used the MVP.
 
-Production-ready V1 capabilities — including communications integrations, initial AI features, and full launch hardening — are delivered under the fixed-price option (~12–16 weeks) or through continued month-to-month engagement after MVP.
+Production-ready V1 capabilities — including full Teams integration, deep third-party data visibility, advanced AI features, and full launch hardening — are delivered under the fixed-price option (~12–16 weeks) or through continued month-to-month engagement after MVP.
 
 ---
 
-## 8. Recommendation
+## 8. Why We Recommend the Phase 1 Engagement
 
-For this project, **we recommend the Monthly Retainer at $8,000 per month.**
+For this project, **we recommend the Phase 1 Engagement — the monthly retainer at $8,000 per month** (3-month initial commitment, $24,000 total).
 
-> **We recommend the monthly retainer because it reduces project risk, lets us validate workflows before investing in advanced features, avoids spending on assumptions, and enables priorities to evolve based on how the team actually uses the platform.**
+While a fixed-price engagement is available, our recommendation is to begin with the Phase 1 Engagement. At this stage, several important variables are still unknown, including integration feasibility, workflow priorities, reporting requirements, and how the team will ultimately use the platform in day-to-day operations.
 
-The retainer is recommended because it allows the platform to be built iteratively — starting with the highest-value workflows first — while leaving room to adjust as real usage clarifies what matters most and as technical limitations around third-party integrations become clear.
+Rather than investing significant time and budget defining every requirement upfront, the Phase 1 Engagement allows us to deliver a working MVP quickly, validate the highest-value workflows, and make future investment decisions based on actual usage rather than assumptions.
 
-Under the retainer, usable increments can begin shipping within the first weeks of build, with a functional MVP typically emerging by the end of the initial three-month commitment (approximately 8–12 weeks from kickoff). Production-ready V1 — with communications integrations, AI features, and full launch hardening — is targeted within 12–16 weeks with continued month-to-month engagement, or can be committed upfront under the fixed-price option. The retainer is not priced or structured as a discounted path to the same contracted V1 deliverable as the fixed-price option.
+This approach reduces project risk, accelerates time-to-value, and creates a stronger foundation for future integrations, automation, and AI capabilities.
 
-### Why the Retainer Is the Better Fit
+For projects where requirements are fully defined and unlikely to change, the fixed-price model may be more appropriate. Based on our discovery conversations to date, we believe the Phase 1 Engagement provides the best balance of flexibility, speed, and long-term value.
+
+Under the Phase 1 Engagement, usable increments can begin shipping within the first weeks of build — starting with the communications layer — with a functional MVP typically emerging by the end of the initial three-month commitment (approximately 8–12 weeks from kickoff). Production-ready V1 — with full Teams integration, deep third-party data visibility, advanced AI features, and full launch hardening — is targeted within 12–16 weeks with continued month-to-month engagement, or can be committed upfront under the fixed-price option. The retainer is not priced or structured as a discounted path to the same contracted V1 deliverable as the fixed-price option.
+
+### Supporting Rationale
 
 1. **Reduces project risk** — Incremental delivery and shared prioritization limit overcommitment before requirements are proven in daily use.
 
-2. **Validates workflows before advanced features** — Core dashboards and workflows can be proven before investing in Outlook/Teams integration, third-party data visibility, AI, and automation.
+2. **Validates communications workflows first** — The unified communications workspace can be proven before layering acquisition, property management, and internal dashboards on top — matching the client's highest-priority pain point.
 
 3. **Avoids spending on assumptions** — Budget goes toward confirmed needs, not speculative features locked in before the platform is in use.
 
@@ -323,11 +382,27 @@ Under the retainer, usable increments can begin shipping within the first weeks 
 
 ### When Fixed Price Would Be Appropriate
 
-Fixed price works when scope, integrations, and AI functionality are clearly defined and locked before development begins. Based on our discovery, requirements are still evolving — which makes the retainer the better fit for this engagement.
+Fixed price works when scope, integrations, and AI functionality are clearly defined and locked before development begins. It remains a credible option for clients who prefer contractual delivery accountability and budget certainty for a fully scoped V1 — but based on our discovery to date, requirements are still evolving, which makes the Phase 1 Engagement the better fit for this project.
 
 ---
 
-## 9. Assumptions
+## 9. Security Approach
+
+Security is built into the platform from the foundation — practical protections appropriate for an internal operations system handling deal, property, and business data.
+
+- **Role-based access controls** — Users see only the dashboards and records appropriate to their role
+- **Secure authentication** — Protected sign-in for all platform access
+- **Encrypted data in transit** — Data transmitted between users and the platform is encrypted
+- **Secure credential and API key handling** — Integration credentials stored and accessed using industry-standard practices
+- **Principle of least privilege** — Third-party integrations receive only the access required for their function
+- **Audit logging** — Key platform actions logged where appropriate for accountability and troubleshooting
+- **Client-owned accounts** — Production infrastructure and related accounts remain under client ownership where appropriate
+
+This approach prioritizes practical security for a small internal team. Enterprise compliance certifications (e.g., SOC 2, HIPAA) are not included unless separately scoped.
+
+---
+
+## 10. Assumptions
 
 - Client provides timely access to necessary tools, accounts, and APIs required for integrations
 - Some platforms may have API limitations, export-only access, or licensing restrictions that affect integration depth
@@ -338,13 +413,13 @@ Fixed price works when scope, integrations, and AI functionality are clearly def
 - Team size remains approximately five users with role-based access
 - Deal volume remains approximately 2–3 acquisitions evaluated per month
 - Client provides a single point of contact for scope and priority decisions
-- Client reviews deliverables and provides feedback within agreed timeframes
+- Client reviews deliverables and provides feedback within five business days unless otherwise agreed in writing
 - English-language platform; no native mobile app in initial scope
 - Cloud hosting and third-party API usage costs are borne by the client
 
 ---
 
-## 10. Out of Scope Unless Added Later
+## 11. Out of Scope Unless Added Later
 
 - Full replacement of Yardi, Entrata, CoStar, Microsoft Teams, or Outlook
 - Native mobile application development
@@ -360,7 +435,7 @@ Fixed price works when scope, integrations, and AI functionality are clearly def
 
 ---
 
-## 11. Agreement Terms
+## 12. Agreement Terms
 
 The following terms apply upon execution of a formal agreement between Layer Zero Studio and Amit.
 
@@ -402,7 +477,7 @@ Under the retainer, scope is managed through ongoing prioritization within the m
 
 - Provide timely access to systems, credentials, and stakeholders needed for discovery and development
 - Designate a primary point of contact for decisions, feedback, and approvals
-- Review deliverables and provide consolidated feedback within agreed timeframes
+- Review deliverables and provide consolidated feedback within five business days unless otherwise agreed in writing
 - Procure and maintain third-party subscriptions, hosting, and API accounts required for the platform
 - Ensure internal approval for integrations that require IT, vendor, or enterprise authorization
 
@@ -428,7 +503,7 @@ Either party may terminate a retainer engagement with 30 days written notice aft
 
 ### Fixed Price Milestone Approval
 
-Under the fixed price model, each milestone payment is tied to delivery and written acceptance of agreed phase deliverables. Client has 10 business days from milestone delivery to review and accept or provide consolidated feedback. Layer Zero Studio will address material defects within agreed scope before final milestone acceptance. Payment for each milestone is due upon written acceptance unless otherwise specified in the statement of work.
+Under the fixed price model, each milestone payment is tied to delivery and written acceptance of agreed phase deliverables. Client feedback and approvals are expected within five business days unless otherwise agreed in writing. Layer Zero Studio will address material defects within agreed scope before final milestone acceptance. Payment for each milestone is due upon written acceptance unless otherwise specified in the statement of work.
 
 ### Change Orders (Fixed Price)
 
@@ -436,7 +511,27 @@ Any work outside the agreed statement of work — including additional integrati
 
 ---
 
-## 12. Next Steps
+## 13. Acceptance
+
+By signing below, both parties acknowledge that this proposal reflects the current project direction and that final implementation details may be refined through discovery, technical feasibility review, and written agreement.
+
+| | |
+|---|---|
+| **Client** | |
+| Name | _________________________________ |
+| Company | _________________________________ |
+| Signature | _________________________________ |
+| Date | _________________________________ |
+| | |
+| **Provider** | |
+| Name | Julio Vivas |
+| Company | Layer Zero Studio |
+| Signature | _________________________________ |
+| Date | _________________________________ |
+
+---
+
+## 14. Next Steps
 
 | Step | Action | Owner | Target |
 |---|---|---|---|
