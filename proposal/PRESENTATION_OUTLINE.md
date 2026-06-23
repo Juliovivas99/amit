@@ -283,11 +283,11 @@ A custom internal operating system — three dashboards, one application:
 | **Initial Commitment** | Milestone-based | 3 months ($24,000) — usable MVP; not same scope as fixed-price V1 |
 | **Capacity** | Scoped to SOW | ~20 hrs/week (80 hrs/mo) |
 | **Flexibility** | Low — formal scope management | High — continuous discovery, evolving priorities |
-| **Risk** | Absorbed by developer | Shared — client directs priorities |
+| **Risk** | Assumed by developer | Shared — client directs priorities |
 | **Support** | Limited post-acceptance | Included in retainer capacity |
 | **Best for** | Locked scope before build | Evolving requirements |
 
-> **Speaker Notes:** These are not two prices for the same deliverable. Say this explicitly: "The initial 3-month retainer is designed to deliver a usable MVP, not every advanced capability in the full V1 roadmap. The fixed-price option is higher because it includes a formally scoped production-ready V1, delivery commitment, and project risk buffer." Fixed price = contractual V1 build. Retainer = iterative partnership — $24K delivers a usable MVP, not a guaranteed full V1.
+> **Speaker Notes:** These are not two prices for the same deliverable. Say this explicitly: "The initial 3-month retainer delivers a usable MVP — not every advanced capability in the production-ready V1 roadmap. The fixed-price option reflects a higher total investment because it contractually commits to a formally scoped production-ready V1 — defined deliverables, locked requirements, formal scope management, delivery accountability, planning and contingency, expanded testing and coordination, and greater project risk assumed by the developer — with reduced flexibility after scope approval." Fixed price = contractual V1 build. Retainer = iterative partnership — $24K delivers a usable MVP, not a guaranteed full V1.
 
 ---
 
@@ -297,29 +297,34 @@ A custom internal operating system — three dashboards, one application:
 
 | Month | Focus |
 |---|---|
-| **Month 1** | Discovery, architecture, database, core foundation, auth, initial dashboard structure |
-| **Month 2** | Acquisition Dashboard — deal pipeline, notes, documents, basic reporting |
-| **Month 3** | Property Management + Internal Management dashboards; MVP launch, testing, training |
+| **Month 1** | Discovery, workflow mapping, architecture, authentication, user access, database design, core platform foundation |
+| **Month 2** | Acquisition Dashboard — deal pipeline, notes, documents, internal workflow structure, basic visibility and reporting |
+| **Month 3** | Property Management + Internal Management dashboards; MVP launch, user testing, training, feedback-driven improvements |
 
-**Expected outcome:** Usable MVP with all three dashboards — not the same scope as the $60,000–$80,000 fixed-price V1.
+**MVP definition:** The initial engagement delivers a usable MVP that centralizes core workflows and provides a foundation for future integrations, automation, and AI capabilities.
+
+**Expected outcome:** Usable MVP with all three dashboards — not full Outlook/Teams integration, full Yardi/Entrata/CoStar visibility, or AI automation within the initial three months. Not the same scope as the $60,000–$80,000 fixed-price V1.
 
 > **Speaker Notes:** Walk through each month concretely. This is what $24K buys. Be clear it does not include every advanced integration, AI feature, or full production-ready V1 capability.
 
 ---
 
-### SLIDE 19: Phase 2 — Optional Month-to-Month Enhancements
+### SLIDE 19: Phase 2 — Optional Enhancements
 
 **After MVP — continued at $8,000/month:**
 
-- Communications integrations
-- AI-powered search and AI-assisted summaries
+- Outlook integration
+- Microsoft Teams integration
+- Yardi, Entrata, and CoStar visibility
+- AI-powered search and AI summaries
 - Workflow automation
-- Deeper Yardi/Entrata/CoStar visibility
 - Advanced reporting
-- Additional dashboards or workflows
-- Ongoing support and improvements
+- Additional dashboards
+- Advanced integrations
 
-> **Speaker Notes:** Frame Phase 2 as optional and prioritized based on real use. Production-ready V1 typically requires continued engagement beyond three months, or can be contracted upfront under fixed price.
+**Important:** These may begin during the initial engagement where practical, but are **not guaranteed within the first three months**.
+
+> **Speaker Notes:** Frame Phase 2 as optional and prioritized based on real use. Production-ready V1 is delivered under fixed price (~12–16 weeks) or through continued retainer engagement after MVP.
 
 ---
 
@@ -327,12 +332,14 @@ A custom internal operating system — three dashboards, one application:
 
 **$60,000–$80,000 | ~12–16 weeks to production-ready V1 (contractual)**
 
-- Best for a formally scoped production-ready V1 with full scope committed upfront
-- Locked requirements and defined deliverables per statement of work
-- Milestone-based payments with written acceptance
+- Best for a production-ready V1 with full scope committed upfront
+- Defined deliverables and locked requirements per statement of work
 - Formal scope management — change orders for material additions
-- Greater project risk absorbed by developer
 - Contractual delivery commitment for full agreed V1 scope
+- Greater project risk assumed by developer (estimation, integration variability, delivery accountability)
+- Additional planning, contingency, testing, and coordination overhead
+- Budget certainty — reduced flexibility after scope approval
+- Milestone-based payments with written acceptance
 
 **Best when:** Requirements are stable and fully defined before development begins.
 
@@ -361,17 +368,17 @@ Additional work outside the agreed scope may require a separate written change o
 
 **We recommend the Monthly Retainer at $8,000/month.**
 
-> **My recommendation is the retainer path because it gets a usable platform in front of the team quickly, lets us validate the highest-value workflows, and avoids overbuilding features before the team has used the system.**
+> **We recommend the monthly retainer because it reduces project risk, lets us validate workflows before investing in advanced features, avoids spending on assumptions, and enables priorities to evolve based on how the team actually uses the platform.**
 
 **Why:**
 
-1. The platform can be built iteratively, starting with highest-value workflows first
-2. Integration complexity (Yardi, Entrata, CoStar) favors incremental validation as access becomes clear
-3. AI must be tuned to your workflows — this is iterative, not one-time
-4. A team of 5 benefits from a responsive solo-engineer partner, not a rigid project handoff
+1. **Reduces project risk** — Incremental delivery limits overcommitment before requirements are proven
+2. **Validates workflows first** — Core dashboards proven before Outlook/Teams, Yardi/Entrata/CoStar, AI, and automation
+3. **Avoids spending on assumptions** — Budget toward confirmed needs, not speculative features
+4. **Priorities evolve with usage** — Monthly prioritization adjusts as the team learns what delivers value
 5. Fixed price only works if scope is locked before development — discovery suggests it isn't yet
 
-> **Speaker Notes:** Be direct. "We're recommending the retainer because it fits how this project will actually unfold — iterative delivery with room to learn, not a locked-scope project at a lower price point."
+> **Speaker Notes:** Be direct. "We're recommending the retainer because it fits how this project will actually unfold — validate workflows first, then invest in advanced capabilities based on real usage, not a locked-scope project at a lower price point."
 
 ---
 

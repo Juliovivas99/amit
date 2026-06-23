@@ -6,6 +6,29 @@
     window.addEventListener('scroll', function () {
       nav.classList.toggle('scrolled', window.scrollY > 20);
     }, { passive: true });
+
+    var navToggle = nav.querySelector('.nav-toggle');
+    if (navToggle) {
+      navToggle.addEventListener('click', function () {
+        var open = nav.classList.toggle('menu-open');
+        navToggle.setAttribute('aria-expanded', open ? 'true' : 'false');
+      });
+
+      nav.querySelectorAll('.nav-mobile a').forEach(function (link) {
+        link.addEventListener('click', function () {
+          nav.classList.remove('menu-open');
+          navToggle.setAttribute('aria-expanded', 'false');
+        });
+      });
+
+      document.addEventListener('keydown', function (e) {
+        if (e.key === 'Escape' && nav.classList.contains('menu-open')) {
+          nav.classList.remove('menu-open');
+          navToggle.setAttribute('aria-expanded', 'false');
+          navToggle.focus();
+        }
+      });
+    }
   }
 
   var progressBar = document.querySelector('.nav-progress');
@@ -45,7 +68,11 @@
         if (entry.isIntersecting) {
           var id = entry.target.getAttribute('id');
           sidebarLinks.forEach(function (link) {
-            link.classList.toggle('active', link.getAttribute('href') === '#' + id);
+            var isActive = link.getAttribute('href') === '#' + id;
+            link.classList.toggle('active', isActive);
+            if (isActive && link.closest('.mobile-section-nav-inner')) {
+              link.scrollIntoView({ behavior: 'smooth', block: 'nearest', inline: 'center' });
+            }
           });
         }
       });

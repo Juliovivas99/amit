@@ -26,7 +26,7 @@
 4. [Phase-Based Build Plan](#4-phase-based-build-plan)
 5. [Pricing Options](#5-pricing-options)
 6. [What the Initial 3-Month Retainer Covers](#6-what-the-initial-3-month-retainer-covers)
-7. [Phase 2 / Optional Month-to-Month Enhancements](#7-phase-2--optional-month-to-month-enhancements)
+7. [Phase 2 / Optional Enhancements](#7-phase-2--optional-enhancements)
 8. [Recommendation](#8-recommendation)
 9. [Assumptions](#9-assumptions)
 10. [Out of Scope](#10-out-of-scope)
@@ -151,7 +151,9 @@ The platform will be built in eight phases. Each phase produces usable progress.
 | **Phase 7** | AI Search & Workflow Features | 2–4 weeks | AI search across approved platform data, summaries, document lookup, and workflow assistance |
 | **Phase 8** | QA, Launch & Training | 1–2 weeks | QA, bug fixes, user testing, training, launch support, and post-launch refinements |
 
-**Phasing approach:** Phases 1–2 establish the foundation. Phases 3–5 deliver the three core dashboards. Phases 6–7 add communications and AI capabilities once structured data exists. Phase 8 ensures the platform is tested, adopted, and refined. Some phases may overlap depending on priority, technical access, and which workflows are selected for the MVP. Under a retainer, phases can also be reprioritized based on what delivers the most value earliest. Additional integrations, automations, and AI workflows may continue month-to-month after V1 if the client wants to keep improving the platform.
+**Phasing approach:** Phases 1–2 establish the foundation. Phases 3–5 deliver the three core dashboards. Phases 6–7 add communications and AI capabilities once structured data exists. Phase 8 ensures the platform is tested, adopted, and refined. Some phases may overlap depending on priority, technical access, and which workflows are selected for the MVP. Under a retainer, phases can also be reprioritized based on what delivers the most value earliest.
+
+**MVP vs. production-ready V1:** Under the initial 3-month retainer, the expected path is Phases 1–5 plus MVP launch activities (Phase 8 in lean form) — core workflows across all three dashboards, not full communications integrations, third-party data visibility, or AI automation. Phases 6–7 and advanced capabilities are targeted for production-ready V1 under the fixed-price option (~12–16 weeks), or as Phase 2 / optional enhancements under continued retainer engagement. Work on advanced capabilities may begin during the initial engagement where practical, but is not guaranteed within the first three months.
 
 ---
 
@@ -159,9 +161,9 @@ The platform will be built in eight phases. Each phase produces usable progress.
 
 Two pricing options are available. Both work toward the same long-term platform vision, but they represent fundamentally different engagement structures — not two ways to buy the same deliverable at different prices.
 
-> **The initial 3-month retainer is designed to deliver a usable MVP, not every advanced capability in the full V1 roadmap. The fixed-price option is higher because it includes a formally scoped production-ready V1, delivery commitment, and project risk buffer.**
+> **Engagement distinction:** The initial 3-month retainer delivers a usable MVP — not every advanced capability in the production-ready V1 roadmap. The fixed-price option reflects a higher total investment because it contractually commits to a formally scoped production-ready V1, with defined deliverables, locked requirements, formal scope management, delivery accountability, additional planning and contingency, expanded testing and coordination, and greater project risk assumed by Layer Zero Studio — with reduced flexibility for scope changes after approval.
 
-**Fixed price ($60,000–$80,000)** is best for a formally scoped production-ready V1. It includes defined deliverables, locked requirements, formal scope management, risk buffer, and contractual delivery commitment. Better if the client wants the full V1 scope committed upfront.
+**Fixed price ($60,000–$80,000)** is best when the client wants a production-ready V1 with full scope committed upfront. It includes defined deliverables, locked requirements, formal scope management, delivery commitment, and the planning, contingency, testing, and coordination overhead required when the developer assumes greater project risk.
 
 **The retainer ($8,000/month; $24,000 initial 3-month commitment)** is best for iterative development. It focuses on the highest-value workflows first. The expected outcome is a usable MVP — not every advanced integration, AI feature, or full production-ready V1 feature in the first three months. The engagement can continue month-to-month after MVP for communications integrations, AI search, automation, advanced workflows, and deeper third-party integrations.
 
@@ -176,12 +178,13 @@ Two pricing options are available. Both work toward the same long-term platform 
 
 **Best for:** A formally scoped production-ready V1 with the full V1 scope committed upfront.
 
-- Locked requirements and defined deliverables per agreed statement of work
-- Formally scoped production-ready V1 with risk buffer and contractual delivery commitment (~12–16 weeks)
+- Defined deliverables and locked requirements per agreed statement of work
+- Formal scope management — written change orders required for material additions
+- Contractual delivery commitment for the full agreed production-ready V1 scope (~12–16 weeks)
+- Greater project risk assumed by Layer Zero Studio (estimation uncertainty, integration variability, delivery accountability)
+- Additional planning, contingency, testing, and coordination overhead built into the engagement
+- Budget certainty for approved scope — with reduced flexibility after scope approval
 - Milestone-based payments tied to written acceptance of phase deliverables
-- Budget certainty for approved scope
-- Formal scope management — change orders required for material additions
-- Greater project risk absorbed by Layer Zero Studio (integration uncertainty, estimation risk, delivery accountability)
 
 The fixed price option requires a clearly defined scope before development begins. Material changes to scope, integrations, or AI functionality may require a written change order. Timeline may extend if third-party integrations are delayed, APIs are unavailable, or the client changes scope. Additional work outside the agreed scope may require a separate written change order or proposal.
 
@@ -216,7 +219,7 @@ The initial three-month retainer ($24,000) does **not** deliver the same scope a
 | **Delivery commitment** | Full agreed V1 scope per locked SOW | Monthly prioritized releases — no guaranteed full V1 in initial term |
 | **Requirements** | Locked before development begins | Evolve through continuous discovery and use |
 | **Scope management** | Formal SOW + written change orders | Monthly prioritization within development capacity |
-| **Project risk** | Absorbed by developer (estimation, delivery accountability) | Shared — client directs priorities; scope flexes with learning |
+| **Project risk** | Assumed by developer (estimation, delivery accountability) | Shared — client directs priorities; scope flexes with learning |
 | **Budget certainty** | High for defined scope | Monthly commitment; total depends on how far the build progresses |
 | **Development capacity** | Scoped to agreed deliverables | ~20 hrs/week (up to 80 hrs/mo) |
 | **Timeline to production-ready V1** | ~12–16 weeks (contractual, scope-dependent) | Target ~12–16 weeks with continued engagement; not guaranteed in 3 months |
@@ -241,23 +244,26 @@ The initial three-month retainer ($24,000) does **not** deliver the same scope a
 
 The initial three-month retainer ($24,000) is structured to deliver a usable MVP — all three dashboards in a practical, launch-ready form — not every advanced capability in the full V1 roadmap.
 
+The initial engagement is intended to deliver a usable MVP that centralizes core workflows and provides a foundation for future integrations, automation, and AI capabilities.
+
 ### Month 1
 
-- Discovery and workflow mapping
-- Technical architecture
-- Database/data model
+- Discovery
+- Workflow mapping
+- Architecture
+- Authentication
+- User access
+- Database design
 - Core platform foundation
-- Authentication and user access
-- Initial dashboard structure
 
 ### Month 2
 
 - Acquisition Dashboard
 - Deal pipeline
-- Deal notes
-- Document organization
+- Notes
+- Documents
 - Internal workflow structure
-- Basic reporting/visibility
+- Basic visibility and reporting
 
 ### Month 3
 
@@ -265,27 +271,33 @@ The initial three-month retainer ($24,000) is structured to deliver a usable MVP
 - Internal Management Dashboard
 - MVP launch
 - User testing
-- Initial training
-- Feedback-driven adjustments
+- Training
+- Feedback-driven improvements
 
-**Expected outcome after Month 3:** A usable MVP with all three dashboards, core workflows, and a launched platform the team can begin using daily. Advanced integrations, AI features, communications layer, and production-hardening beyond MVP scope are not guaranteed within the initial three-month term.
+**Expected outcome after Month 3:** A usable MVP with all three dashboards, core workflows, and a launched platform the team can begin using daily. Full Outlook integration, full Teams integration, full Yardi/Entrata/CoStar visibility, AI automation, and production-hardening beyond MVP scope are not guaranteed within the initial three-month term.
 
 ---
 
-## 7. Phase 2 / Optional Month-to-Month Enhancements
+## 7. Phase 2 / Optional Enhancements
 
 After the MVP, continued month-to-month work at $8,000/month may include:
 
-- Communications integrations
+- Outlook integration
+- Microsoft Teams integration
+- Yardi visibility
+- Entrata visibility
+- CoStar visibility
 - AI-powered search
-- AI-assisted summaries
+- AI summaries
 - Workflow automation
-- Deeper Yardi/Entrata/CoStar visibility
 - Advanced reporting
-- Additional dashboards or workflows
+- Additional dashboards
+- Advanced integrations
 - Ongoing support and improvements
 
-This phase is optional and prioritized monthly based on what delivers the most value after the team has used the MVP. Production-ready V1 capabilities — including core integrations, initial AI features, and full launch hardening — typically require continued engagement beyond the initial three months, or can be contracted upfront under the fixed-price option.
+These features may begin during the initial engagement where practical, but are **not guaranteed within the first three months**. This phase is optional and prioritized monthly based on what delivers the most value after the team has used the MVP.
+
+Production-ready V1 capabilities — including communications integrations, initial AI features, and full launch hardening — are delivered under the fixed-price option (~12–16 weeks) or through continued month-to-month engagement after MVP.
 
 ---
 
@@ -293,21 +305,21 @@ This phase is optional and prioritized monthly based on what delivers the most v
 
 For this project, **we recommend the Monthly Retainer at $8,000 per month.**
 
-> **My recommendation is the retainer path because it gets a usable platform in front of the team quickly, lets us validate the highest-value workflows, and avoids overbuilding features before the team has used the system.**
+> **We recommend the monthly retainer because it reduces project risk, lets us validate workflows before investing in advanced features, avoids spending on assumptions, and enables priorities to evolve based on how the team actually uses the platform.**
 
-The retainer is recommended because it allows the platform to be built iteratively, starting with the highest-value workflows first, while leaving room to adjust as the team begins using the system and as technical limitations around third-party integrations become clear.
+The retainer is recommended because it allows the platform to be built iteratively — starting with the highest-value workflows first — while leaving room to adjust as real usage clarifies what matters most and as technical limitations around third-party integrations become clear.
 
 Under the retainer, usable increments can begin shipping within the first weeks of build, with a functional MVP typically emerging by the end of the initial three-month commitment (approximately 8–12 weeks from kickoff). Production-ready V1 — with communications integrations, AI features, and full launch hardening — is targeted within 12–16 weeks with continued month-to-month engagement, or can be committed upfront under the fixed-price option. The retainer is not priced or structured as a discounted path to the same contracted V1 deliverable as the fixed-price option.
 
 ### Why the Retainer Is the Better Fit
 
-1. **Workflows will clarify through use** — Daily use will surface what matters most. A retainer lets you adjust priorities month to month instead of locking everything upfront.
+1. **Reduces project risk** — Incremental delivery and shared prioritization limit overcommitment before requirements are proven in daily use.
 
-2. **Integrations are uncertain** — Yardi, Entrata, CoStar, and Microsoft 365 may require API approval, exports, workarounds, or phased integration. Incremental delivery reduces risk.
+2. **Validates workflows before advanced features** — Core dashboards and workflows can be proven before investing in Outlook/Teams integration, third-party data visibility, AI, and automation.
 
-3. **AI needs real data** — AI search, summaries, and workflow assistance depend on structured data and approved access. These features improve through iteration — not a single fixed delivery.
+3. **Avoids spending on assumptions** — Budget goes toward confirmed needs, not speculative features locked in before the platform is in use.
 
-4. **Right-sized, not overbuilt** — With 2–3 deals per month and a team of five, you need a practical internal OS that grows with you — not a rigid enterprise build that overcommits before you know what works.
+4. **Priorities evolve with usage** — Monthly prioritization lets the roadmap adjust as the team discovers what delivers the most value — instead of committing to a full V1 scope before anyone has used the system.
 
 ### When Fixed Price Would Be Appropriate
 

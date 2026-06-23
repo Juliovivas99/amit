@@ -43,7 +43,7 @@ Open in any browser — ready for client presentation or Print → Save as PDF.
 
 This is a lean internal operating system for approximately 5 users and 2–3 acquisitions reviewed per month, not a year-long enterprise rollout.
 
-**Retainer vs. fixed price:** The initial 3-month retainer ($24,000) delivers a usable MVP — not every advanced capability in the full V1 roadmap. The fixed-price option ($60,000–$80,000) includes a formally scoped production-ready V1, delivery commitment, and project risk buffer.
+**Retainer vs. fixed price:** The initial 3-month retainer ($24,000) delivers a usable MVP — not every advanced capability in the production-ready V1 roadmap. The fixed-price option ($60,000–$80,000) contractually commits to a production-ready V1 with defined deliverables, locked requirements, formal scope management, delivery accountability, and greater project risk assumed by the developer.
 
 ---
 

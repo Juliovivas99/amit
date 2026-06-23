@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
   <title>Project Estimate — Amit | Layer Zero Studio</title>
-  <meta name="description" content="Delivery timeline, resource allocation, and pricing estimate for the Unified Real Estate Operations Platform.">
+  <meta name="description" content="Delivery timeline and pricing estimate for the Unified Real Estate Operations Platform.">
   <meta property="og:title" content="Project Estimate — Amit | Layer Zero Studio">
-  <meta property="og:description" content="Delivery timeline, resource allocation, and pricing for Amit's platform build.">
+  <meta property="og:description" content="Delivery timeline and pricing for Amit's platform build.">
   <meta property="og:type" content="website">
   <link rel="icon" href="assets/logo.svg" type="image/svg+xml">
   <link rel="preconnect" href="https://fonts.googleapis.com">
@@ -19,16 +19,19 @@
 <nav class="nav">
   <div class="nav-progress" aria-hidden="true"></div>
   <a href="https://www.layerzero.studio" class="nav-logo" target="_blank" rel="noopener">
-    <div class="nav-logo-mark">
-      <svg viewBox="0 0 40 40" fill="none" xmlns="http://www.w3.org/2000/svg" aria-hidden="true">
-        <rect width="40" height="40" fill="#f97316"/>
-        <path d="M8 28V12h6.5c3.2 0 5.3 1.8 5.3 4.6 0 2.1-1.2 3.6-3.1 4.2L22 28h-3.4l-4.6-6.4H11.2V28H8zm3.2-9.4h3.1c1.5 0 2.4-.8 2.4-2.1s-.9-2.1-2.4-2.1h-3.1v4.2z" fill="#050505"/>
-        <rect x="24" y="12" width="3" height="16" fill="#050505"/>
-      </svg>
-    </div>
     <div class="nav-logo-text">Layer Zero<br>Studio</div>
   </a>
   <div class="nav-links">
+    <a href="index.html">Package</a>
+    <a href="proposal.html">Proposal</a>
+    <a href="estimate.html" class="active">Estimate</a>
+  </div>
+  <button type="button" class="nav-toggle" aria-label="Open menu" aria-expanded="false" aria-controls="mobile-nav">
+    <span class="nav-toggle-bar"></span>
+    <span class="nav-toggle-bar"></span>
+    <span class="nav-toggle-bar"></span>
+  </button>
+  <div class="nav-mobile" id="mobile-nav">
     <a href="index.html">Package</a>
     <a href="proposal.html">Proposal</a>
     <a href="estimate.html" class="active">Estimate</a>
@@ -38,7 +41,7 @@
 <section class="hero">
   <div class="hero-inner">
     <h1>Project <span class="accent">Estimate</span></h1>
-    <p class="hero-sub">Unified Real Estate Operations Platform — delivery timeline, resource allocation, and pricing for Amit.</p>
+    <p class="hero-sub">Unified Real Estate Operations Platform — delivery timeline and pricing for Amit.</p>
     <div class="hero-meta">
       <div><strong>Prepared By</strong> Layer Zero Studio</div>
       <div><strong>Related Doc</strong> Client Proposal v1.0</div>
@@ -80,43 +83,43 @@
       </div>
     </div>
 
-    <div class="card-grid" style="grid-template-columns: 1fr 1fr;">
+    <div class="card-grid card-grid--pricing">
       <div class="card pricing-card">
         <h4>Option 1</h4>
         <h3>Fixed Price Build</h3>
         <div class="price-tag"><span class="amount">$60,000–$80,000</span></div>
-        <div class="table-wrap" style="border:none;margin:0;">
+        <div class="table-wrap">
           <table class="data-table">
             <tbody>
               <tr><td>Timeline to V1</td><td class="num">~12–16 weeks</td></tr>
-              <tr><td>Delivery</td><td>Contractual — locked SOW</td></tr>
+              <tr><td>Delivery</td><td class="num">Contractual — locked SOW</td></tr>
             </tbody>
           </table>
         </div>
-        <p style="margin-top:1rem;font-size:0.875rem;">Locked requirements, defined deliverables, formal scope management, risk buffer, and contractual delivery commitment for a production-ready V1. Best if the client wants the full V1 scope committed upfront.</p>
+        <p>Locked requirements, defined deliverables, formal scope management, risk buffer, and contractual delivery commitment for a production-ready V1. Best if the client wants the full V1 scope committed upfront.</p>
       </div>
       <div class="card dark-card highlight pricing-card">
-        <h4 style="color:var(--lz-orange);">Option 2 — Recommended</h4>
+        <h4 class="pricing-card-label">Option 2 — Recommended</h4>
         <h3>Monthly Retainer</h3>
-        <div class="price-tag"><span class="amount" style="color:#fff;">$8,000</span><span class="period" style="color:rgba(243,241,237,0.5);">/ month</span></div>
-        <div class="table-wrap" style="border:none;margin:0;background:transparent;">
-          <table class="data-table">
+        <div class="price-tag"><span class="amount">$8,000</span><span class="period">/ month</span></div>
+        <div class="table-wrap">
+          <table class="data-table data-table--dark">
             <tbody>
-              <tr style="background:transparent!important;"><td style="color:rgba(243,241,237,0.6);border-color:rgba(255,255,255,0.1);">Capacity</td><td class="num" style="color:#fff;border-color:rgba(255,255,255,0.1);">~20 hrs/week (up to 80/mo)</td></tr>
-              <tr style="background:transparent!important;"><td style="color:rgba(243,241,237,0.6);border-color:rgba(255,255,255,0.1);">Initial Commitment</td><td class="num" style="color:#fff;border-color:rgba(255,255,255,0.1);">3 months ($24,000)</td></tr>
-              <tr style="background:transparent!important;"><td style="color:rgba(243,241,237,0.6);border-color:rgba(255,255,255,0.1);">Expected outcome</td><td class="num" style="color:#fff;border-color:rgba(255,255,255,0.1);">Usable MVP — not full V1 scope</td></tr>
-              <tr style="background:transparent!important;"><td style="color:rgba(243,241,237,0.6);border-color:rgba(255,255,255,0.1);">After Initial Term</td><td class="num" style="color:#fff;border-color:rgba(255,255,255,0.1);">Month-to-month at $8,000/mo</td></tr>
-              <tr style="background:transparent!important;"><td style="color:rgba(243,241,237,0.6);border-color:rgba(255,255,255,0.1);">Delivery</td><td class="num" style="color:var(--lz-orange);border-color:rgba(255,255,255,0.1);">Iterative — not guaranteed full V1</td></tr>
+              <tr><td>Capacity</td><td class="num">~20 hrs/week (up to 80/mo)</td></tr>
+              <tr><td>Initial Commitment</td><td class="num">3 months ($24,000)</td></tr>
+              <tr><td>Expected outcome</td><td class="num">Usable MVP — not full V1 scope</td></tr>
+              <tr><td>After Initial Term</td><td class="num">Month-to-month at $8,000/mo</td></tr>
+              <tr><td>Delivery</td><td class="num pricing-accent">Iterative — not guaranteed full V1</td></tr>
             </tbody>
           </table>
         </div>
-        <p style="margin-top:1rem;font-size:0.875rem;color:rgba(243,241,237,0.8);">Best for iterative development — highest-value workflows first. The initial three-month retainer delivers a usable MVP, not every advanced integration, AI feature, or full production-ready V1 capability. Continues month-to-month after MVP for communications, AI, automation, and deeper integrations.</p>
+        <p>Best for iterative development — highest-value workflows first. The initial three-month retainer delivers a usable MVP, not every advanced integration, AI feature, or full production-ready V1 capability. Continues month-to-month after MVP for communications, AI, automation, and deeper integrations.</p>
       </div>
     </div>
 
     <div class="callout" style="margin-top:2rem;">
       <h3>Key Distinction</h3>
-      <p style="margin-bottom:1rem;"><strong>The initial 3-month retainer is designed to deliver a usable MVP, not every advanced capability in the full V1 roadmap. The fixed-price option is higher because it includes a formally scoped production-ready V1, delivery commitment, and project risk buffer.</strong></p>
+      <p style="margin-bottom:1rem;"><strong>The initial 3-month retainer delivers a usable MVP — not every advanced capability in the production-ready V1 roadmap. The fixed-price option reflects a higher total investment because it contractually commits to a formally scoped production-ready V1, with defined deliverables, locked requirements, formal scope management, delivery accountability, additional planning and contingency, expanded testing and coordination, and greater project risk assumed by Layer Zero Studio — with reduced flexibility for scope changes after approval.</strong></p>
     </div>
 
     <div class="callout" style="margin-top:2rem;">
@@ -146,18 +149,20 @@
       <p class="section-summary">Month-by-month deliverables for the $24,000 initial commitment.</p>
     </header>
 
+    <p class="lead" style="margin-bottom:1.5rem;">The initial engagement is intended to deliver a usable MVP that centralizes core workflows and provides a foundation for future integrations, automation, and AI capabilities.</p>
+
     <div class="table-wrap data-table-wrap">
       <table class="data-table">
         <thead><tr><th>Month</th><th>Focus</th><th>Deliverables</th></tr></thead>
         <tbody>
-          <tr><td><strong>Month 1</strong></td><td>Foundation</td><td>Discovery and workflow mapping; technical architecture; database/data model; core platform foundation; authentication and user access; initial dashboard structure</td></tr>
-          <tr><td><strong>Month 2</strong></td><td>Acquisition</td><td>Acquisition Dashboard; deal pipeline; deal notes; document organization; internal workflow structure; basic reporting/visibility</td></tr>
-          <tr><td><strong>Month 3</strong></td><td>MVP launch</td><td>Property Management Dashboard; Internal Management Dashboard; MVP launch; user testing; initial training; feedback-driven adjustments</td></tr>
+          <tr><td><strong>Month 1</strong></td><td>Foundation</td><td>Discovery; workflow mapping; architecture; authentication; user access; database design; core platform foundation</td></tr>
+          <tr><td><strong>Month 2</strong></td><td>Acquisition</td><td>Acquisition Dashboard; deal pipeline; notes; documents; internal workflow structure; basic visibility and reporting</td></tr>
+          <tr><td><strong>Month 3</strong></td><td>MVP launch</td><td>Property Management Dashboard; Internal Management Dashboard; MVP launch; user testing; training; feedback-driven improvements</td></tr>
         </tbody>
       </table>
     </div>
 
-    <p style="margin-top:1rem;font-size:0.875rem;"><strong>Expected outcome after Month 3:</strong> A usable MVP the team can begin using daily. Not the same scope as the $60,000–$80,000 fixed-price production-ready V1.</p>
+    <p style="margin-top:1rem;font-size:0.875rem;"><strong>Expected outcome after Month 3:</strong> A usable MVP the team can begin using daily. Full Outlook integration, full Teams integration, full Yardi/Entrata/CoStar visibility, AI automation, and production-hardening beyond MVP scope are not guaranteed within the initial three-month term. Not the same scope as the $60,000–$80,000 fixed-price production-ready V1.</p>
   </div>
 </section>
 
@@ -166,20 +171,26 @@
   <div class="container">
     <header class="section-header">
       <span class="section-num">Phase 2</span>
-      <h2>Optional Month-to-Month Enhancements</h2>
-      <p class="section-summary">After the MVP — continued work at $8,000/month, prioritized monthly.</p>
+      <h2>Phase 2 / Optional Enhancements</h2>
+      <p class="section-summary">After the MVP — continued work at $8,000/month, prioritized monthly. Not guaranteed within the initial three-month term.</p>
     </header>
 
     <ul class="bullet-list">
-      <li>Communications integrations</li>
+      <li>Outlook integration</li>
+      <li>Microsoft Teams integration</li>
+      <li>Yardi visibility</li>
+      <li>Entrata visibility</li>
+      <li>CoStar visibility</li>
       <li>AI-powered search</li>
-      <li>AI-assisted summaries</li>
+      <li>AI summaries</li>
       <li>Workflow automation</li>
-      <li>Deeper Yardi/Entrata/CoStar visibility</li>
       <li>Advanced reporting</li>
-      <li>Additional dashboards or workflows</li>
+      <li>Additional dashboards</li>
+      <li>Advanced integrations</li>
       <li>Ongoing support and improvements</li>
     </ul>
+
+    <p style="margin-top:1.5rem;font-size:0.875rem;">These features may begin during the initial engagement where practical, but are <strong>not guaranteed within the first three months</strong>. Production-ready V1 capabilities are delivered under the fixed-price option (~12–16 weeks) or through continued month-to-month engagement after MVP.</p>
   </div>
 </section>
 
@@ -213,35 +224,6 @@
   </div>
 </section>
 
-<!-- Resource Allocation -->
-<section class="section alt reveal">
-  <div class="container">
-    <header class="section-header">
-      <span class="section-num">Team</span>
-      <h2>Resource Allocation</h2>
-      <p class="section-summary">Primary development resource for this lean internal platform build.</p>
-    </header>
-
-    <div class="card" style="margin-bottom:var(--space-5);">
-      <h3>Lead Software Engineer — Julio Vivas</h3>
-      <p>Julio will be responsible for:</p>
-      <ul class="bullet-list">
-        <li>Product architecture</li>
-        <li>Frontend development</li>
-        <li>Backend development</li>
-        <li>Database design</li>
-        <li>API integrations</li>
-        <li>AI search and automation implementation</li>
-        <li>Deployment and infrastructure</li>
-        <li>Testing and QA</li>
-        <li>Client communication</li>
-        <li>Project management</li>
-      </ul>
-      <p style="margin-top:1rem;font-size:0.875rem;margin-bottom:0;">Additional specialized resources, such as design, infrastructure, security, or vendor-specific integration support, may be brought in only if needed and subject to client approval.</p>
-    </div>
-  </div>
-</section>
-
 <!-- Cost Breakdowns -->
 <section class="section reveal">
   <div class="container">
@@ -269,9 +251,9 @@
       <table class="data-table">
         <thead><tr><th>Period</th><th>Focus</th><th class="num">Monthly</th><th class="num">Cumulative</th></tr></thead>
         <tbody>
-          <tr><td>Month 1</td><td>Discovery, architecture, core foundation, auth, initial dashboard structure</td><td class="num">$8,000</td><td class="num">$8,000</td></tr>
-          <tr><td>Month 2</td><td>Acquisition Dashboard — deal pipeline, notes, documents, basic reporting</td><td class="num">$8,000</td><td class="num">$16,000</td></tr>
-          <tr><td>Month 3</td><td>Property Management + Internal Management dashboards; MVP launch, testing, training</td><td class="num">$8,000</td><td class="num">$24,000</td></tr>
+          <tr><td>Month 1</td><td>Discovery, workflow mapping, architecture, auth, user access, database design, core foundation</td><td class="num">$8,000</td><td class="num">$8,000</td></tr>
+          <tr><td>Month 2</td><td>Acquisition Dashboard — deal pipeline, notes, documents, internal workflow, basic visibility</td><td class="num">$8,000</td><td class="num">$16,000</td></tr>
+          <tr><td>Month 3</td><td>Property Management + Internal Management dashboards; MVP launch, testing, training, feedback</td><td class="num">$8,000</td><td class="num">$24,000</td></tr>
           <tr><td>Month 4+ (optional)</td><td>Communications, AI, deeper integrations, automation, ongoing enhancements</td><td class="num">$8,000</td><td>Continues month-to-month</td></tr>
         </tbody>
       </table>

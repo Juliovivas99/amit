@@ -48,59 +48,44 @@ The build plan is organized into eight phases. With a solo lead engineer working
 | **Retainer initial commitment** | 3 months ($24,000) | Usable MVP with three dashboards — not every advanced integration, AI feature, or full production-ready V1 capability |
 | **Fixed price V1** | $60,000–$80,000 | Formally scoped V1 with defined deliverables, risk buffer, and contractual delivery commitment (~12–16 weeks) |
 
-> **Positioning:** The initial 3-month retainer is designed to deliver a usable MVP, not every advanced capability in the full V1 roadmap. The fixed-price option is higher because it includes a formally scoped production-ready V1, delivery commitment, and project risk buffer.
+> **Engagement distinction:** The initial 3-month retainer delivers a usable MVP — not every advanced capability in the production-ready V1 roadmap. The fixed-price option reflects a higher total investment because it contractually commits to a formally scoped production-ready V1, with defined deliverables, locked requirements, formal scope management, delivery accountability, additional planning and contingency, expanded testing and coordination, and greater project risk assumed by Layer Zero Studio — with reduced flexibility for scope changes after approval.
 
-> **Note on pricing models:** **Fixed price ($60,000–$80,000)** is best for a formally scoped production-ready V1 — defined deliverables, locked requirements, formal scope management, risk buffer, and contractual delivery commitment (~12–16 weeks). **The retainer ($8,000/month)** provides up to 80 hours of development capacity per month for iterative, prioritized delivery. The initial three-month commitment ($24,000) delivers a usable MVP with all three dashboards — not every advanced integration, AI feature, or full production-ready V1 feature in the first term. The engagement can continue month-to-month after MVP for communications integrations, AI search, automation, advanced workflows, and deeper third-party integrations.
+> **Note on pricing models:** **Fixed price ($60,000–$80,000)** is best when the client wants a production-ready V1 with full scope committed upfront — defined deliverables, locked requirements, formal scope management, delivery commitment, and the planning, contingency, testing, and coordination overhead required when the developer assumes greater project risk (~12–16 weeks). **The retainer ($8,000/month)** provides up to 80 hours of development capacity per month for iterative, prioritized delivery. The initial three-month commitment ($24,000) delivers a usable MVP with all three dashboards — not full Outlook/Teams integration, full Yardi/Entrata/CoStar visibility, AI automation, or every production-ready V1 capability in the first term. The engagement can continue month-to-month after MVP for Phase 2 / optional enhancements.
 
 ---
 
 ## What the Initial 3-Month Retainer Covers
 
+The initial engagement is intended to deliver a usable MVP that centralizes core workflows and provides a foundation for future integrations, automation, and AI capabilities.
+
 | Month | Focus | Deliverables |
 |---|---|---|
-| **Month 1** | Foundation | Discovery and workflow mapping; technical architecture; database/data model; core platform foundation; authentication and user access; initial dashboard structure |
-| **Month 2** | Acquisition | Acquisition Dashboard; deal pipeline; deal notes; document organization; internal workflow structure; basic reporting/visibility |
-| **Month 3** | MVP launch | Property Management Dashboard; Internal Management Dashboard; MVP launch; user testing; initial training; feedback-driven adjustments |
+| **Month 1** | Foundation | Discovery; workflow mapping; architecture; authentication; user access; database design; core platform foundation |
+| **Month 2** | Acquisition | Acquisition Dashboard; deal pipeline; notes; documents; internal workflow structure; basic visibility and reporting |
+| **Month 3** | MVP launch | Property Management Dashboard; Internal Management Dashboard; MVP launch; user testing; training; feedback-driven improvements |
 
-**Expected outcome after Month 3:** A usable MVP the team can begin using daily. Not the same scope as the $60,000–$80,000 fixed-price production-ready V1.
+**Expected outcome after Month 3:** A usable MVP the team can begin using daily. Full Outlook integration, full Teams integration, full Yardi/Entrata/CoStar visibility, AI automation, and production-hardening beyond MVP scope are not guaranteed within the initial three-month term. Not the same scope as the $60,000–$80,000 fixed-price production-ready V1.
 
 ---
 
-## Phase 2 / Optional Month-to-Month Enhancements
+## Phase 2 / Optional Enhancements
 
 After the MVP, continued month-to-month work at $8,000/month may include:
 
-- Communications integrations
+- Outlook integration
+- Microsoft Teams integration
+- Yardi visibility
+- Entrata visibility
+- CoStar visibility
 - AI-powered search
-- AI-assisted summaries
+- AI summaries
 - Workflow automation
-- Deeper Yardi/Entrata/CoStar visibility
 - Advanced reporting
-- Additional dashboards or workflows
+- Additional dashboards
+- Advanced integrations
 - Ongoing support and improvements
 
----
-
-## Resource Allocation
-
-### Primary Development Resource
-
-**Lead Software Engineer — Julio Vivas**
-
-Julio will be responsible for:
-
-- Product architecture
-- Frontend development
-- Backend development
-- Database design
-- API integrations
-- AI search and automation implementation
-- Deployment and infrastructure
-- Testing and QA
-- Client communication
-- Project management
-
-Additional specialized resources, such as design, infrastructure, security, or vendor-specific integration support, may be brought in only if needed and subject to client approval.
+These features may begin during the initial engagement where practical, but are **not guaranteed within the first three months**. Production-ready V1 capabilities are delivered under the fixed-price option (~12–16 weeks) or through continued month-to-month engagement after MVP.
 
 ---
 
@@ -125,9 +110,9 @@ The fixed price option requires a clearly defined scope before development begin
 
 | Period | Focus | Monthly | Cumulative |
 |---|---|---|---|
-| Month 1 | Discovery, architecture, core foundation, auth, initial dashboard structure | $8,000 | $8,000 |
-| Month 2 | Acquisition Dashboard — deal pipeline, notes, documents, basic reporting | $8,000 | $16,000 |
-| Month 3 | Property Management + Internal Management dashboards; MVP launch, testing, training | $8,000 | $24,000 |
+| Month 1 | Discovery, workflow mapping, architecture, auth, user access, database design, core foundation | $8,000 | $8,000 |
+| Month 2 | Acquisition Dashboard — deal pipeline, notes, documents, internal workflow, basic visibility | $8,000 | $16,000 |
+| Month 3 | Property Management + Internal Management dashboards; MVP launch, testing, training, feedback | $8,000 | $24,000 |
 | Month 4+ (optional) | Communications, AI, deeper integrations, automation, ongoing enhancements | $8,000 | Continues month-to-month |
 
 **Initial commitment:** 3 months ($24,000)  
